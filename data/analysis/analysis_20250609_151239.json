@@ -1,0 +1,4986 @@
+{
+  "executive_summary": {
+    "total_keyword_mentions": 1024,
+    "total_keyword_engagement": 4256,
+    "most_mentioned_keyword": [
+      "neet",
+      614
+    ],
+    "most_engaging_keyword": [
+      "explanation",
+      {
+        "average_likes_per_mention": 7.222222222222222,
+        "total_engagement": 195
+      }
+    ],
+    "channel_count_analyzed": 126,
+    "keywords_analyzed": 8
+  },
+  "detailed_analysis": {
+    "loved_it": {
+      "total_mentions": 2,
+      "total_likes": 0,
+      "channel_stats": {
+        "NEET 2025 in 11 Days - Bored & Don't Feel like Studying? SATURATION? बहुत हो गयी पढाई!!!": {
+          "mentions": 1,
+          "likes": 0,
+          "videos_count": 1
+        },
+        "Why Kapil sir RECOMMENDS joining Residential Program of Dr. Anand Mani for NEET aspirants?": {
+          "mentions": 1,
+          "likes": 0,
+          "videos_count": 1
+        }
+      },
+      "top_channels": [
+        [
+          "NEET 2025 in 11 Days - Bored & Don't Feel like Studying? SATURATION? बहुत हो गयी पढाई!!!",
+          {
+            "mentions": 1,
+            "likes": 0,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Why Kapil sir RECOMMENDS joining Residential Program of Dr. Anand Mani for NEET aspirants?",
+          {
+            "mentions": 1,
+            "likes": 0,
+            "videos_count": 1
+          }
+        ]
+      ],
+      "sentiment_breakdown": {
+        "positive": 2
+      },
+      "sample_comments": [
+        {
+          "comment_id": "Ugz19XuoL60EADu40hd4AaABAg",
+          "text_preview": "Great video really loved it❤❤😂",
+          "full_text": "Great video really loved it❤❤😂",
+          "likes": 0,
+          "author": "@Priyanshuyadav-ro9lk",
+          "variations_found": [
+            "loved it"
+          ],
+          "sentiment": "positive",
+          "channel": "NEETprep Course: NCERT Based NEET Preparation",
+          "video_id": "MhjpEQcemYY"
+        },
+        {
+          "comment_id": "UgyMVBD2bPLT9mgVREB4AaABAg",
+          "text_preview": "Great Collaboration ❤ Loved it.",
+          "full_text": "Great Collaboration ❤ Loved it.",
+          "likes": 0,
+          "author": "@YTTSF12",
+          "variations_found": [
+            "loved it"
+          ],
+          "sentiment": "positive",
+          "channel": "NEETprep Course: NCERT Based NEET Preparation",
+          "video_id": "xvP6QE0YTg8"
+        }
+      ]
+    },
+    "great": {
+      "total_mentions": 41,
+      "total_likes": 103,
+      "channel_stats": {
+        "NEET 2025 was TOUGH - Rachit Expecting 689 (Crying after Exam)! Score DOES NOT Matter - Rank Matters": {
+          "mentions": 1,
+          "likes": 0,
+          "videos_count": 1
+        },
+        "8 Month Time Table for NEET 2026 dropper | Complete Syllabus by 31st Jan  #neetdroppers #neetprep": {
+          "mentions": 2,
+          "likes": 1,
+          "videos_count": 1
+        },
+        "NEET 2025 in 11 Days - Bored & Don't Feel like Studying? SATURATION? बहुत हो गयी पढाई!!!": {
+          "mentions": 1,
+          "likes": 0,
+          "videos_count": 1
+        },
+        "Part 3 of 3 - Documents to be UPLOADED (Identity Proof, Present & Permanent Address) for NEET 2025": {
+          "mentions": 1,
+          "likes": 0,
+          "videos_count": 1
+        },
+        "11th Wasted? #restart to CRACK NEET 2026 Starts RIGHT NOW!!! Step by Step Plan INSIDE.": {
+          "mentions": 1,
+          "likes": 2,
+          "videos_count": 1
+        },
+        "Launching Classroom Test Series & 4 Super Course Bundles for NEET 2026 - 1st Test in 39 Days!!": {
+          "mentions": 1,
+          "likes": 16,
+          "videos_count": 1
+        },
+        "Don't worry - You are Ready for Cracking NEET 2025 tomorrow!!!": {
+          "mentions": 1,
+          "likes": 1,
+          "videos_count": 1
+        },
+        "Most Important CHECKLIST for FINAL 55 Days (7 Sundays) before NEET 2025!!!": {
+          "mentions": 1,
+          "likes": 2,
+          "videos_count": 1
+        },
+        "Unit #1 (NEET Bio) New NCERT DISCREPANCIES Confirmed by Dr. N.K.Sharma!!!": {
+          "mentions": 3,
+          "likes": 4,
+          "videos_count": 1
+        },
+        "Why Kapil sir RECOMMENDS joining Residential Program of Dr. Anand Mani for NEET aspirants?": {
+          "mentions": 2,
+          "likes": 6,
+          "videos_count": 1
+        },
+        "How to Prepare for a TOUGH Bio Paper like in NEET 2025?": {
+          "mentions": 1,
+          "likes": 22,
+          "videos_count": 1
+        },
+        "JUMP of 50 Marks POSSIBLE from NOW till NEET 2025???": {
+          "mentions": 1,
+          "likes": 5,
+          "videos_count": 1
+        },
+        "How to Study NCERT & Practice MCQs to get Ready for NEET 2025 type TOUGH exam?": {
+          "mentions": 2,
+          "likes": 2,
+          "videos_count": 1
+        },
+        "Aryan Singh DECIDES to become a PILOT & Stops Preparing for NEET - Its OK!!!": {
+          "mentions": 1,
+          "likes": 6,
+          "videos_count": 1
+        },
+        "Exam Day Readiness STARTS RIGHTNOW - Every Test - 11 Weeks - 11 Tests till NEET 2025!!!": {
+          "mentions": 1,
+          "likes": 12,
+          "videos_count": 1
+        },
+        "Launching SCORE BOOSTER - The ULTIMATE Course for Round 2 Preparation for NEET 2026 & NEET 2027?": {
+          "mentions": 2,
+          "likes": 4,
+          "videos_count": 1
+        },
+        "Should you Prepare at JEE Advanced Level to CRACK NEET? 100% NO!!!": {
+          "mentions": 1,
+          "likes": 2,
+          "videos_count": 1
+        },
+        "How to Crack NEET 2026? | Best Timetable & Preparation Strategy Explained": {
+          "mentions": 1,
+          "likes": 0,
+          "videos_count": 1
+        },
+        "Want to Maximise Testing in April? Recommended Plan for NEET 2025 aspirants!!!": {
+          "mentions": 1,
+          "likes": 0,
+          "videos_count": 1
+        },
+        "DO's & DONT's for FINAL 3 Days before NEET 2025!!!": {
+          "mentions": 1,
+          "likes": 0,
+          "videos_count": 1
+        },
+        "Board Exams Over - DOs & DON'Ts for Final 40 DAYS before NEET 2025!!!": {
+          "mentions": 1,
+          "likes": 6,
+          "videos_count": 1
+        },
+        "How many 30 min Concentrated Study (CS) sessions can you do in a DAY?": {
+          "mentions": 2,
+          "likes": 1,
+          "videos_count": 1
+        },
+        "Nitrogenous Bases of DNA / RNA: Easy Identification Tips #neet2025 #chemistry": {
+          "mentions": 2,
+          "likes": 0,
+          "videos_count": 1
+        },
+        "Mock Test Sunday (13 April) For NEET 2025 Aspirants - Get READY - JOIN Kapil Sir Live At 1:45 pm!": {
+          "mentions": 1,
+          "likes": 0,
+          "videos_count": 1
+        },
+        "Parents की महनत और बच्चों का सपना | NEET Toppers की ज़िद की कहानी | MedTalks S2 | #neet": {
+          "mentions": 2,
+          "likes": 7,
+          "videos_count": 1
+        },
+        "NEET Toppers के पापा ने बताया उनकी Success का Secret | Special Episode | MedTalks Season 2": {
+          "mentions": 1,
+          "likes": 0,
+          "videos_count": 1
+        },
+        "कैसे बनाया खुदको NEET Ready? | Ex IRS Dr Shivin | MedTalks Season 2 #neet2025 #podcast": {
+          "mentions": 2,
+          "likes": 0,
+          "videos_count": 1
+        },
+        "Doctor बनने में आखिर कितने साल लगते हैं? | @RishabhJain2970 ने बताया |  #aiimsdelhi #doctors": {
+          "mentions": 1,
+          "likes": 1,
+          "videos_count": 1
+        },
+        "NEET 2026 में Chemistry  की तैयारी कैसे करनी है?  | Level of Exam & Preparation | #neet2025": {
+          "mentions": 1,
+          "likes": 0,
+          "videos_count": 1
+        },
+        "Can I prepare for NEET by Online coaching and NEETprep? #onlineneetcoaching #neet": {
+          "mentions": 1,
+          "likes": 1,
+          "videos_count": 1
+        },
+        "Things You Should do before NEET 2025 | Final NEET Strategy by Toppers #podcastclips #neet2025": {
+          "mentions": 1,
+          "likes": 2,
+          "videos_count": 1
+        }
+      },
+      "top_channels": [
+        [
+          "Unit #1 (NEET Bio) New NCERT DISCREPANCIES Confirmed by Dr. N.K.Sharma!!!",
+          {
+            "mentions": 3,
+            "likes": 4,
+            "videos_count": 1
+          }
+        ],
+        [
+          "8 Month Time Table for NEET 2026 dropper | Complete Syllabus by 31st Jan  #neetdroppers #neetprep",
+          {
+            "mentions": 2,
+            "likes": 1,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Why Kapil sir RECOMMENDS joining Residential Program of Dr. Anand Mani for NEET aspirants?",
+          {
+            "mentions": 2,
+            "likes": 6,
+            "videos_count": 1
+          }
+        ],
+        [
+          "How to Study NCERT & Practice MCQs to get Ready for NEET 2025 type TOUGH exam?",
+          {
+            "mentions": 2,
+            "likes": 2,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Launching SCORE BOOSTER - The ULTIMATE Course for Round 2 Preparation for NEET 2026 & NEET 2027?",
+          {
+            "mentions": 2,
+            "likes": 4,
+            "videos_count": 1
+          }
+        ],
+        [
+          "How many 30 min Concentrated Study (CS) sessions can you do in a DAY?",
+          {
+            "mentions": 2,
+            "likes": 1,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Nitrogenous Bases of DNA / RNA: Easy Identification Tips #neet2025 #chemistry",
+          {
+            "mentions": 2,
+            "likes": 0,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Parents की महनत और बच्चों का सपना | NEET Toppers की ज़िद की कहानी | MedTalks S2 | #neet",
+          {
+            "mentions": 2,
+            "likes": 7,
+            "videos_count": 1
+          }
+        ],
+        [
+          "कैसे बनाया खुदको NEET Ready? | Ex IRS Dr Shivin | MedTalks Season 2 #neet2025 #podcast",
+          {
+            "mentions": 2,
+            "likes": 0,
+            "videos_count": 1
+          }
+        ],
+        [
+          "NEET 2025 was TOUGH - Rachit Expecting 689 (Crying after Exam)! Score DOES NOT Matter - Rank Matters",
+          {
+            "mentions": 1,
+            "likes": 0,
+            "videos_count": 1
+          }
+        ],
+        [
+          "NEET 2025 in 11 Days - Bored & Don't Feel like Studying? SATURATION? बहुत हो गयी पढाई!!!",
+          {
+            "mentions": 1,
+            "likes": 0,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Part 3 of 3 - Documents to be UPLOADED (Identity Proof, Present & Permanent Address) for NEET 2025",
+          {
+            "mentions": 1,
+            "likes": 0,
+            "videos_count": 1
+          }
+        ],
+        [
+          "11th Wasted? #restart to CRACK NEET 2026 Starts RIGHT NOW!!! Step by Step Plan INSIDE.",
+          {
+            "mentions": 1,
+            "likes": 2,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Launching Classroom Test Series & 4 Super Course Bundles for NEET 2026 - 1st Test in 39 Days!!",
+          {
+            "mentions": 1,
+            "likes": 16,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Don't worry - You are Ready for Cracking NEET 2025 tomorrow!!!",
+          {
+            "mentions": 1,
+            "likes": 1,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Most Important CHECKLIST for FINAL 55 Days (7 Sundays) before NEET 2025!!!",
+          {
+            "mentions": 1,
+            "likes": 2,
+            "videos_count": 1
+          }
+        ],
+        [
+          "How to Prepare for a TOUGH Bio Paper like in NEET 2025?",
+          {
+            "mentions": 1,
+            "likes": 22,
+            "videos_count": 1
+          }
+        ],
+        [
+          "JUMP of 50 Marks POSSIBLE from NOW till NEET 2025???",
+          {
+            "mentions": 1,
+            "likes": 5,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Aryan Singh DECIDES to become a PILOT & Stops Preparing for NEET - Its OK!!!",
+          {
+            "mentions": 1,
+            "likes": 6,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Exam Day Readiness STARTS RIGHTNOW - Every Test - 11 Weeks - 11 Tests till NEET 2025!!!",
+          {
+            "mentions": 1,
+            "likes": 12,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Should you Prepare at JEE Advanced Level to CRACK NEET? 100% NO!!!",
+          {
+            "mentions": 1,
+            "likes": 2,
+            "videos_count": 1
+          }
+        ],
+        [
+          "How to Crack NEET 2026? | Best Timetable & Preparation Strategy Explained",
+          {
+            "mentions": 1,
+            "likes": 0,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Want to Maximise Testing in April? Recommended Plan for NEET 2025 aspirants!!!",
+          {
+            "mentions": 1,
+            "likes": 0,
+            "videos_count": 1
+          }
+        ],
+        [
+          "DO's & DONT's for FINAL 3 Days before NEET 2025!!!",
+          {
+            "mentions": 1,
+            "likes": 0,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Board Exams Over - DOs & DON'Ts for Final 40 DAYS before NEET 2025!!!",
+          {
+            "mentions": 1,
+            "likes": 6,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Mock Test Sunday (13 April) For NEET 2025 Aspirants - Get READY - JOIN Kapil Sir Live At 1:45 pm!",
+          {
+            "mentions": 1,
+            "likes": 0,
+            "videos_count": 1
+          }
+        ],
+        [
+          "NEET Toppers के पापा ने बताया उनकी Success का Secret | Special Episode | MedTalks Season 2",
+          {
+            "mentions": 1,
+            "likes": 0,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Doctor बनने में आखिर कितने साल लगते हैं? | @RishabhJain2970 ने बताया |  #aiimsdelhi #doctors",
+          {
+            "mentions": 1,
+            "likes": 1,
+            "videos_count": 1
+          }
+        ],
+        [
+          "NEET 2026 में Chemistry  की तैयारी कैसे करनी है?  | Level of Exam & Preparation | #neet2025",
+          {
+            "mentions": 1,
+            "likes": 0,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Can I prepare for NEET by Online coaching and NEETprep? #onlineneetcoaching #neet",
+          {
+            "mentions": 1,
+            "likes": 1,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Things You Should do before NEET 2025 | Final NEET Strategy by Toppers #podcastclips #neet2025",
+          {
+            "mentions": 1,
+            "likes": 2,
+            "videos_count": 1
+          }
+        ]
+      ],
+      "sentiment_breakdown": {
+        "positive": 41
+      },
+      "sample_comments": [
+        {
+          "comment_id": "Ugyl5Bf-3ytFF-vWq-B4AaABAg",
+          "text_preview": "I am genuinely proud that I am a NEETprep student. Practiced 20K+ questions. Biology custom tests, t...",
+          "full_text": "I am genuinely proud that I am a NEETprep student. Practiced 20K+ questions. Biology custom tests, test papers dpps, were jus awesome. Thank you KAPIL SIR N TEAM",
+          "likes": 22,
+          "author": "@Neethustler-t3b",
+          "variations_found": [
+            "awesome"
+          ],
+          "sentiment": "positive",
+          "channel": "NEETprep Course: NCERT Based NEET Preparation",
+          "video_id": "UCceao1zo_g"
+        },
+        {
+          "comment_id": "Ugwb7xzJi48u7bflskZ4AaABAg",
+          "text_preview": "Sir dropper test series please you are doing great work thank you so much",
+          "full_text": "Sir dropper test series please you are doing great work thank you so much",
+          "likes": 16,
+          "author": "@Ak0610sk",
+          "variations_found": [
+            "great"
+          ],
+          "sentiment": "positive",
+          "channel": "NEETprep Course: NCERT Based NEET Preparation",
+          "video_id": "ibBS7eVTykU"
+        },
+        {
+          "comment_id": "UgxWD4c8KxfbRVPJ2KB4AaABAg",
+          "text_preview": "Sir aaj hi maine HYTS home test series order kiya hai sir test bahut jyada affordable hai 800/ me 20...",
+          "full_text": "Sir aaj hi maine HYTS home test series order kiya hai sir test bahut jyada affordable hai 800/ me 20 full syllbus test and quality was amazing👍👍👍 Tention se nahi mcq practice se hoga selection",
+          "likes": 12,
+          "author": "@AnjaliKurmi-pp1ol",
+          "variations_found": [
+            "amazing"
+          ],
+          "sentiment": "positive",
+          "channel": "NEETprep Course: NCERT Based NEET Preparation",
+          "video_id": "obAg4sllFeE"
+        },
+        {
+          "comment_id": "UgzN2RIHmvBQHjJNnH94AaABAg",
+          "text_preview": "It will be great if Kapil sir and Anand sir collab for offline and test series with target Batch",
+          "full_text": "It will be great if Kapil sir and Anand sir collab for offline and test series with target Batch",
+          "likes": 6,
+          "author": "@AbhayRekhate",
+          "variations_found": [
+            "great"
+          ],
+          "sentiment": "positive",
+          "channel": "NEETprep Course: NCERT Based NEET Preparation",
+          "video_id": "xvP6QE0YTg8"
+        },
+        {
+          "comment_id": "Ugya5itzB7qFWh75ehl4AaABAg",
+          "text_preview": "I think Aryan himself has answered that his father worked hard for 25 years and that's why those peo...",
+          "full_text": "I think Aryan himself has answered that his father worked hard for 25 years and that's why those people are standing on this peak today and Aryan himself attempted NEET twice and he scored very good marks, 546 in the first attempt and 480 in the second attempt and as far as everyone knows, marks in NEET are obtained by hard work, not by money.😊 Great decision Aryan Congratulations 👏🎉",
+          "likes": 6,
+          "author": "@duskygirlps3508",
+          "variations_found": [
+            "great"
+          ],
+          "sentiment": "positive",
+          "channel": "NEETprep Course: NCERT Based NEET Preparation",
+          "video_id": "Q1IlQBfBwQY"
+        },
+        {
+          "comment_id": "UgyUErOxjEIQUtDeBNd4AaABAg",
+          "text_preview": "rishabh sir the great 😎",
+          "full_text": "rishabh sir the great 😎",
+          "likes": 6,
+          "author": "@pashashaikh2490",
+          "variations_found": [
+            "great"
+          ],
+          "sentiment": "positive",
+          "channel": "NEETprep Course: NCERT Based NEET Preparation",
+          "video_id": "q75_KtGFwhs"
+        },
+        {
+          "comment_id": "Ugy_P98vVZGlGWxxUdt4AaABAg",
+          "text_preview": "Bhai Jiski sir baat kr rahe hai Shubham sen gupta He is great he score 720 but catch is he has 20 ex...",
+          "full_text": "Bhai Jiski sir baat kr rahe hai Shubham sen gupta He is great he score 720 but catch is he has 20 extra min and 20 optional question you don’t have both in 2025",
+          "likes": 5,
+          "author": "@mukulchaudhary5965",
+          "variations_found": [
+            "great"
+          ],
+          "sentiment": "positive",
+          "channel": "NEETprep Course: NCERT Based NEET Preparation",
+          "video_id": "XosCKmNdYMM"
+        },
+        {
+          "comment_id": "UgwUuM8nMBv3dshxxI54AaABAg",
+          "text_preview": "Sir lest we forgot is awesome !!!! Its helping me a lot !!! Just NCERT reading and Lest we forgot.. ...",
+          "full_text": "Sir lest we forgot is awesome !!!! Its helping me a lot !!! Just NCERT reading and Lest we forgot.. and I am done with the chapter of Bio... . pls do These videos for all units!!!! Its much needed...",
+          "likes": 4,
+          "author": "@NEET...-wc4sp",
+          "variations_found": [
+            "awesome"
+          ],
+          "sentiment": "positive",
+          "channel": "NEETprep Course: NCERT Based NEET Preparation",
+          "video_id": "H4hp20R6DuE"
+        },
+        {
+          "comment_id": "Ugxw-Zch0TGSuf0XzdR4AaABAg",
+          "text_preview": "Your platform is very excellent sir but courses are very confusing 😢 Samjah main nahi aara hain kon ...",
+          "full_text": "Your platform is very excellent sir but courses are very confusing 😢 Samjah main nahi aara hain kon sa batch luuu target batch Yah jumbo etc etc 😢 Sir please makes a long video about all courses and feature please",
+          "likes": 4,
+          "author": "@Belal444-b7x",
+          "variations_found": [
+            "excellent"
+          ],
+          "sentiment": "positive",
+          "channel": "NEETprep Course: NCERT Based NEET Preparation",
+          "video_id": "THQJ-1JPAPw"
+        },
+        {
+          "comment_id": "UgzW-dLlou7SbQRP54V4AaABAg",
+          "text_preview": "Thanks for this amazing video from neet spot ... look at their parents they are really hardworking b...",
+          "full_text": "Thanks for this amazing video from neet spot ... look at their parents they are really hardworking because of dark circles on their eyes ..",
+          "likes": 4,
+          "author": "@CODE....",
+          "variations_found": [
+            "amazing"
+          ],
+          "sentiment": "positive",
+          "channel": "NEETspot",
+          "video_id": "Zr8wIHWk3N0"
+        }
+      ]
+    },
+    "boring": {
+      "total_mentions": 7,
+      "total_likes": 10,
+      "channel_stats": {
+        "Before CHALLENGE WINDOW Closes - CONFUSION on 5 Bio Questions in NEET 2025 Explained by Dr. Sharma": {
+          "mentions": 3,
+          "likes": 9,
+          "videos_count": 1
+        },
+        "Unit #1 (NEET Bio) New NCERT DISCREPANCIES Confirmed by Dr. N.K.Sharma!!!": {
+          "mentions": 1,
+          "likes": 0,
+          "videos_count": 1
+        },
+        "CAUTION: JEE Advanced Level & Outside NCERT Preparation NOT needed to CRACK NEET!!!": {
+          "mentions": 1,
+          "likes": 0,
+          "videos_count": 1
+        },
+        "6 Days Remaining in NEET 2025 - Recommendations to HANDLE Test Anxiety from Dr. N.K.Sharma!!!": {
+          "mentions": 1,
+          "likes": 0,
+          "videos_count": 1
+        },
+        "TESTING for NEET 2026 Starts TOMORROW (8th June), 1:30 p.m. for ENROLLED students on NEETprep.com": {
+          "mentions": 1,
+          "likes": 1,
+          "videos_count": 1
+        }
+      },
+      "top_channels": [
+        [
+          "Before CHALLENGE WINDOW Closes - CONFUSION on 5 Bio Questions in NEET 2025 Explained by Dr. Sharma",
+          {
+            "mentions": 3,
+            "likes": 9,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Unit #1 (NEET Bio) New NCERT DISCREPANCIES Confirmed by Dr. N.K.Sharma!!!",
+          {
+            "mentions": 1,
+            "likes": 0,
+            "videos_count": 1
+          }
+        ],
+        [
+          "CAUTION: JEE Advanced Level & Outside NCERT Preparation NOT needed to CRACK NEET!!!",
+          {
+            "mentions": 1,
+            "likes": 0,
+            "videos_count": 1
+          }
+        ],
+        [
+          "6 Days Remaining in NEET 2025 - Recommendations to HANDLE Test Anxiety from Dr. N.K.Sharma!!!",
+          {
+            "mentions": 1,
+            "likes": 0,
+            "videos_count": 1
+          }
+        ],
+        [
+          "TESTING for NEET 2026 Starts TOMORROW (8th June), 1:30 p.m. for ENROLLED students on NEETprep.com",
+          {
+            "mentions": 1,
+            "likes": 1,
+            "videos_count": 1
+          }
+        ]
+      ],
+      "sentiment_breakdown": {
+        "negative": 7
+      },
+      "sample_comments": [
+        {
+          "comment_id": "UgygKr1K1exOFP4qBlV4AaABAg.AIxOtaOD0Z_AIysr171_KU",
+          "text_preview": "No challenge shi ans h Adrenal MEDULLARY hormone control krte h cardiac activity",
+          "full_text": "No challenge shi ans h Adrenal MEDULLARY hormone control krte h cardiac activity",
+          "likes": 4,
+          "author": "@SarthakBhola",
+          "variations_found": [
+            "dull"
+          ],
+          "sentiment": "negative",
+          "channel": "NEETprep Course: NCERT Based NEET Preparation",
+          "video_id": "sKuwqkggcnA"
+        },
+        {
+          "comment_id": "UgygKr1K1exOFP4qBlV4AaABAg.AIxOtaOD0Z_AIysr171_KU",
+          "text_preview": "No challenge shi ans h Adrenal MEDULLARY hormone control krte h cardiac activity",
+          "full_text": "No challenge shi ans h Adrenal MEDULLARY hormone control krte h cardiac activity",
+          "likes": 4,
+          "author": "@SarthakBhola",
+          "variations_found": [
+            "dull"
+          ],
+          "sentiment": "negative",
+          "channel": "NEETprep Course: NCERT Based NEET Preparation",
+          "video_id": "sKuwqkggcnA"
+        },
+        {
+          "comment_id": "UgybPsiRR1Vl7njA9Kt4AaABAg",
+          "text_preview": "Worst/bekar/wahiyat /irrelevant bolne wale jarur criticize kare pr sath mei apne neet 2025 ke marks ...",
+          "full_text": "Worst/bekar/wahiyat /irrelevant bolne wale jarur criticize kare pr sath mei apne neet 2025 ke marks bhi bata ke jaye 😊",
+          "likes": 1,
+          "author": "@trippydrippy001",
+          "variations_found": [
+            "bekar"
+          ],
+          "sentiment": "negative",
+          "channel": "NEETprep Course: NCERT Based NEET Preparation",
+          "video_id": "Mh4gExSSyEQ"
+        },
+        {
+          "comment_id": "Ugy_mDxiuVxJ6ruuyCV4AaABAg.AFjDgJW3B1NAFmrYaHYqss",
+          "text_preview": "@@abdullahfaridi2397 @rahilbhat5291 bro mujhe chahie",
+          "full_text": "@@abdullahfaridi2397 @rahilbhat5291 bro mujhe chahie",
+          "likes": 0,
+          "author": "@mdafridianwar2048",
+          "variations_found": [
+            "dull"
+          ],
+          "sentiment": "negative",
+          "channel": "NEETprep Course: NCERT Based NEET Preparation",
+          "video_id": "H4hp20R6DuE"
+        },
+        {
+          "comment_id": "UgzeH2mhCY0Dk3DUhQ54AaABAg.AIIzRD_AxEXAIJGiFNBDhs",
+          "text_preview": "Yes i also thinking about it .​@@abdullahfaridi2397",
+          "full_text": "Yes i also thinking about it .​@@abdullahfaridi2397",
+          "likes": 0,
+          "author": "@PriyanshMishra-tk3nu",
+          "variations_found": [
+            "dull"
+          ],
+          "sentiment": "negative",
+          "channel": "NEETprep Course: NCERT Based NEET Preparation",
+          "video_id": "vpajOXL7rAw"
+        },
+        {
+          "comment_id": "UgwK6DW1gubZeEtRfHN4AaABAg",
+          "text_preview": "Sir 12 th ki test series kab se start hogi patna boring road me",
+          "full_text": "Sir 12 th ki test series kab se start hogi patna boring road me",
+          "likes": 0,
+          "author": "@sonu-raj739",
+          "variations_found": [
+            "boring"
+          ],
+          "sentiment": "negative",
+          "channel": "NEETprep Course: NCERT Based NEET Preparation",
+          "video_id": "RYXsQdAeAkU"
+        }
+      ]
+    },
+    "explanation": {
+      "total_mentions": 27,
+      "total_likes": 195,
+      "channel_stats": {
+        "Decided to Prepare for NEET 2026? How to PLAN your studies on Daily & Weekly basis?": {
+          "mentions": 1,
+          "likes": 3,
+          "videos_count": 1
+        },
+        "Before CHALLENGE WINDOW Closes - CONFUSION on 5 Bio Questions in NEET 2025 Explained by Dr. Sharma": {
+          "mentions": 10,
+          "likes": 152,
+          "videos_count": 1
+        },
+        "NEET 2025 in 11 Days - Bored & Don't Feel like Studying? SATURATION? बहुत हो गयी पढाई!!!": {
+          "mentions": 1,
+          "likes": 2,
+          "videos_count": 1
+        },
+        "LAUNCHING  ASCEND - (Gradual Pace) Classroom Test Series for NEET 2026 DROPPERS!!!": {
+          "mentions": 1,
+          "likes": 0,
+          "videos_count": 1
+        },
+        "Part 3 of 3 - Documents to be UPLOADED (Identity Proof, Present & Permanent Address) for NEET 2025": {
+          "mentions": 1,
+          "likes": 0,
+          "videos_count": 1
+        },
+        "HOW to use Target Batch for NEET 2026 (No Lectures, Only MCQ Practice & Testing)?": {
+          "mentions": 1,
+          "likes": 0,
+          "videos_count": 1
+        },
+        "Section B REMOVED from NEET 2025 by NTA - What CHANGES we are making?": {
+          "mentions": 1,
+          "likes": 5,
+          "videos_count": 1
+        },
+        "Unit #1 (NEET Bio) New NCERT DISCREPANCIES Confirmed by Dr. N.K.Sharma!!!": {
+          "mentions": 2,
+          "likes": 3,
+          "videos_count": 1
+        },
+        "STARTING NOW: 2 Level (AIIMS Level) Biology Preparation for NEET with Dr. N.K.Sharma": {
+          "mentions": 2,
+          "likes": 1,
+          "videos_count": 1
+        },
+        "Inspired by Jeetu Bhaiya - 21 Day Hack (Challenge) STARTING Republic Day for NEET 2025 Aspirants!!!": {
+          "mentions": 1,
+          "likes": 7,
+          "videos_count": 1
+        },
+        "NEET 2025 - Chapter & Topic Wise Analysis of Pre-Covid NEET/AIPMT Tests (180Q - 180 min)": {
+          "mentions": 1,
+          "likes": 6,
+          "videos_count": 1
+        },
+        "Explained in 1 Min for NEET 2026 Aspirants - VITAL & ASCEND & Target Batch!!!": {
+          "mentions": 1,
+          "likes": 1,
+          "videos_count": 1
+        },
+        "Should you Prepare at JEE Advanced Level to CRACK NEET? 100% NO!!!": {
+          "mentions": 1,
+          "likes": 13,
+          "videos_count": 1
+        },
+        "NEET 2025 - Fastest Answer key | Live Paper Solving & Expected Cut-Off #neet2025": {
+          "mentions": 1,
+          "likes": 0,
+          "videos_count": 1
+        },
+        "Mock Test Sunday (13 April) For NEET 2025 Aspirants - Get READY - JOIN Kapil Sir Live At 1:45 pm!": {
+          "mentions": 1,
+          "likes": 1,
+          "videos_count": 1
+        },
+        "Why does NaNH2 react with the terminal Triple bond? #neet2025 #chemistry": {
+          "mentions": 1,
+          "likes": 1,
+          "videos_count": 1
+        }
+      },
+      "top_channels": [
+        [
+          "Before CHALLENGE WINDOW Closes - CONFUSION on 5 Bio Questions in NEET 2025 Explained by Dr. Sharma",
+          {
+            "mentions": 10,
+            "likes": 152,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Unit #1 (NEET Bio) New NCERT DISCREPANCIES Confirmed by Dr. N.K.Sharma!!!",
+          {
+            "mentions": 2,
+            "likes": 3,
+            "videos_count": 1
+          }
+        ],
+        [
+          "STARTING NOW: 2 Level (AIIMS Level) Biology Preparation for NEET with Dr. N.K.Sharma",
+          {
+            "mentions": 2,
+            "likes": 1,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Decided to Prepare for NEET 2026? How to PLAN your studies on Daily & Weekly basis?",
+          {
+            "mentions": 1,
+            "likes": 3,
+            "videos_count": 1
+          }
+        ],
+        [
+          "NEET 2025 in 11 Days - Bored & Don't Feel like Studying? SATURATION? बहुत हो गयी पढाई!!!",
+          {
+            "mentions": 1,
+            "likes": 2,
+            "videos_count": 1
+          }
+        ],
+        [
+          "LAUNCHING  ASCEND - (Gradual Pace) Classroom Test Series for NEET 2026 DROPPERS!!!",
+          {
+            "mentions": 1,
+            "likes": 0,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Part 3 of 3 - Documents to be UPLOADED (Identity Proof, Present & Permanent Address) for NEET 2025",
+          {
+            "mentions": 1,
+            "likes": 0,
+            "videos_count": 1
+          }
+        ],
+        [
+          "HOW to use Target Batch for NEET 2026 (No Lectures, Only MCQ Practice & Testing)?",
+          {
+            "mentions": 1,
+            "likes": 0,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Section B REMOVED from NEET 2025 by NTA - What CHANGES we are making?",
+          {
+            "mentions": 1,
+            "likes": 5,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Inspired by Jeetu Bhaiya - 21 Day Hack (Challenge) STARTING Republic Day for NEET 2025 Aspirants!!!",
+          {
+            "mentions": 1,
+            "likes": 7,
+            "videos_count": 1
+          }
+        ],
+        [
+          "NEET 2025 - Chapter & Topic Wise Analysis of Pre-Covid NEET/AIPMT Tests (180Q - 180 min)",
+          {
+            "mentions": 1,
+            "likes": 6,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Explained in 1 Min for NEET 2026 Aspirants - VITAL & ASCEND & Target Batch!!!",
+          {
+            "mentions": 1,
+            "likes": 1,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Should you Prepare at JEE Advanced Level to CRACK NEET? 100% NO!!!",
+          {
+            "mentions": 1,
+            "likes": 13,
+            "videos_count": 1
+          }
+        ],
+        [
+          "NEET 2025 - Fastest Answer key | Live Paper Solving & Expected Cut-Off #neet2025",
+          {
+            "mentions": 1,
+            "likes": 0,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Mock Test Sunday (13 April) For NEET 2025 Aspirants - Get READY - JOIN Kapil Sir Live At 1:45 pm!",
+          {
+            "mentions": 1,
+            "likes": 1,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Why does NaNH2 react with the terminal Triple bond? #neet2025 #chemistry",
+          {
+            "mentions": 1,
+            "likes": 1,
+            "videos_count": 1
+          }
+        ]
+      ],
+      "sentiment_breakdown": {
+        "educational": 27
+      },
+      "sample_comments": [
+        {
+          "comment_id": "Ugy8ByqcdmrVJjYjGal4AaABAg.AIx8mJL1dkEAIxBuj2M-Sp",
+          "text_preview": "In assertion-reason questions, a true reason must fully and directly explain the assertion, not just...",
+          "full_text": "In assertion-reason questions, a true reason must fully and directly explain the assertion, not just be ‘related’. Assertion (A) is True: The Golgi apparatus indeed packages and distributes materials (proteins/lipids) from the ER to intracellular/extracellular targets. Reason (R) is True: Vesicles from the ER fuse with the cis face, are modified, and exit via the trans face. Why (R) Does NOT Explain (A)? My submission: (R) describes the process, not the primary function. (R) explains how materials move through the Golgi (structural mechanism), but it does not address why the Golgi performs this role (functional purpose). What is missing for Option to be the correct answer? (A) emphasizes the functional outcome (delivery to targets), while (R) only describes the transport route (cis-to-trans flow). For (R) to fully explain (A), it must connect vesicle trafficking to sorting, tagging, or destination-specific delivery [Golgi is a sort of post office]. For example, \"The Golgi modifies and tags proteins with signals to direct them to specific targets.” Since the ‘why’ is not explained directly by R, the correct answer should be option 4.",
+          "likes": 34,
+          "author": "@sigmarule...2065",
+          "variations_found": [
+            "explained"
+          ],
+          "sentiment": "educational",
+          "channel": "NEETprep Course: NCERT Based NEET Preparation",
+          "video_id": "sKuwqkggcnA"
+        },
+        {
+          "comment_id": "Ugy8ByqcdmrVJjYjGal4AaABAg.AIx8mJL1dkEAIxBuj2M-Sp",
+          "text_preview": "In assertion-reason questions, a true reason must fully and directly explain the assertion, not just...",
+          "full_text": "In assertion-reason questions, a true reason must fully and directly explain the assertion, not just be ‘related’. Assertion (A) is True: The Golgi apparatus indeed packages and distributes materials (proteins/lipids) from the ER to intracellular/extracellular targets. Reason (R) is True: Vesicles from the ER fuse with the cis face, are modified, and exit via the trans face. Why (R) Does NOT Explain (A)? My submission: (R) describes the process, not the primary function. (R) explains how materials move through the Golgi (structural mechanism), but it does not address why the Golgi performs this role (functional purpose). What is missing for Option to be the correct answer? (A) emphasizes the functional outcome (delivery to targets), while (R) only describes the transport route (cis-to-trans flow). For (R) to fully explain (A), it must connect vesicle trafficking to sorting, tagging, or destination-specific delivery [Golgi is a sort of post office]. For example, \"The Golgi modifies and tags proteins with signals to direct them to specific targets.” Since the ‘why’ is not explained directly by R, the correct answer should be option 4.",
+          "likes": 34,
+          "author": "@sigmarule...2065",
+          "variations_found": [
+            "explained"
+          ],
+          "sentiment": "educational",
+          "channel": "NEETprep Course: NCERT Based NEET Preparation",
+          "video_id": "sKuwqkggcnA"
+        },
+        {
+          "comment_id": "UgwJc2zxXAfeyXePWxl4AaABAg.AHwZKeYfqNCAHwZq9I6jZf",
+          "text_preview": "If you are are practicing MCQs from any Physics chapter in Target Batch, this would be the sequence ...",
+          "full_text": "If you are are practicing MCQs from any Physics chapter in Target Batch, this would be the sequence we will recommend: 1. Absorb before you solve (just go through the video explanations of these questions to know how to attempt MCQs) 2. Recommended MCQs 3. NCERT Back Exercise (converted to MCQs) 4. NCERT Solution (converted to MCQs) 5. NCERT Exemplar 6. Padmshri HC Verma Solutions 7. Level 2 MCQs..both Exemplar are HC Verma Questions are reasonably close to Level 2 MCQs 8. We will also be adding JEE Mains PYQs soon. Of course, you can do NEET PYQs as well.",
+          "likes": 13,
+          "author": "@NEETprep",
+          "variations_found": [
+            "explanation",
+            "explanations"
+          ],
+          "sentiment": "educational",
+          "channel": "NEETprep Course: NCERT Based NEET Preparation",
+          "video_id": "u6XWogoO6Sw"
+        },
+        {
+          "comment_id": "Ugx8uEVl4skxUUjqHFR4AaABAg",
+          "text_preview": "Hi.. Regular Neetprep user.. And benefitted by it..But nowadays in biology, facing lots of out of Nc...",
+          "full_text": "Hi.. Regular Neetprep user.. And benefitted by it..But nowadays in biology, facing lots of out of Ncert questions with bizarre explanations..",
+          "likes": 7,
+          "author": "@meenalgupta5775",
+          "variations_found": [
+            "explanation",
+            "explanations"
+          ],
+          "sentiment": "educational",
+          "channel": "NEETprep Course: NCERT Based NEET Preparation",
+          "video_id": "RxWatG9s2UA"
+        },
+        {
+          "comment_id": "UgwFwFsVPuQRQMkfHiR4AaABAg.AE9r8p0errQAE9wEliodDr",
+          "text_preview": "because we have just gone with the convention rather than explaining students the logic of not assig...",
+          "full_text": "because we have just gone with the convention rather than explaining students the logic of not assigning zoology & botany for every chapter",
+          "likes": 6,
+          "author": "@NEETprep",
+          "variations_found": [
+            "explaining"
+          ],
+          "sentiment": "educational",
+          "channel": "NEETprep Course: NCERT Based NEET Preparation",
+          "video_id": "Jq57UKCwTWA"
+        },
+        {
+          "comment_id": "Ugy0niHEQRNTJAPV5xd4AaABAg.ADiKpET2EAVADiLV6iM-IJ",
+          "text_preview": "attempt only 180, attempt in 180 min...and don't read 20 questions....as Kapil sir explained in the ...",
+          "full_text": "attempt only 180, attempt in 180 min...and don't read 20 questions....as Kapil sir explained in the video",
+          "likes": 5,
+          "author": "@NEETprep",
+          "variations_found": [
+            "explained"
+          ],
+          "sentiment": "educational",
+          "channel": "NEETprep Course: NCERT Based NEET Preparation",
+          "video_id": "f6k7yu8fekk"
+        },
+        {
+          "comment_id": "UgwpZtObMpe4D1bk22J4AaABAg.AHkMuMeQBA-AHkNf3d2OUw",
+          "text_preview": "we had very tough physics questions in our test series...but some of the questions in this paper wer...",
+          "full_text": "we had very tough physics questions in our test series...but some of the questions in this paper were special...those students who left them would probably be SMART TOPPERS!!! You never prepare for questions like those. Tragedy, hardly, anyone is explaining this to students...now, students will start practicing from all kind of hard books.",
+          "likes": 3,
+          "author": "@NEETprep",
+          "variations_found": [
+            "explaining"
+          ],
+          "sentiment": "educational",
+          "channel": "NEETprep Course: NCERT Based NEET Preparation",
+          "video_id": "h14veFb8604"
+        },
+        {
+          "comment_id": "UgzLMeB9zDgPFkVoMf94AaABAg",
+          "text_preview": "respected teachers, we need videos like this on further units too! there are many videos regarding t...",
+          "full_text": "respected teachers, we need videos like this on further units too! there are many videos regarding this on the platform but i want to watch yours because i trust the teachers of this channel, kindly provide us with more content like this, i can't trust those bhaiya-didi. Please try to keep your explanation based on ncert level also, please keep it short so that we can cover more in less time. thank you, lots of support from my side❤",
+          "likes": 3,
+          "author": "@SVERMA-dp8zw",
+          "variations_found": [
+            "explanation"
+          ],
+          "sentiment": "educational",
+          "channel": "NEETprep Course: NCERT Based NEET Preparation",
+          "video_id": "H4hp20R6DuE"
+        },
+        {
+          "comment_id": "UgwavGd0bPYf7lu4DE54AaABAg.AHGOX67Gl4WAHGU-lipq-Y",
+          "text_preview": "New plant families - 90 MCQs provided in Google Drive P-Block - Directly go and solve mini Q-Bank Sa...",
+          "full_text": "New plant families - 90 MCQs provided in Google Drive P-Block - Directly go and solve mini Q-Bank Salt Analysis - Provided small question sets in google drive Basically solve these questions and go through explanation if needed (don't worry if maximum qns get wrong)",
+          "likes": 2,
+          "author": "@Knight_Killer",
+          "variations_found": [
+            "explanation"
+          ],
+          "sentiment": "educational",
+          "channel": "NEETprep Course: NCERT Based NEET Preparation",
+          "video_id": "MhjpEQcemYY"
+        },
+        {
+          "comment_id": "UgxvaoUwhZ2KV-5RD3h4AaABAg",
+          "text_preview": "Sharma sir have very well explained the level of bio which is helpful for neet 2026 aspirant 😊",
+          "full_text": "Sharma sir have very well explained the level of bio which is helpful for neet 2026 aspirant 😊",
+          "likes": 1,
+          "author": "@RahulSharma-v9m7k",
+          "variations_found": [
+            "explained"
+          ],
+          "sentiment": "educational",
+          "channel": "NEETprep Course: NCERT Based NEET Preparation",
+          "video_id": "cJ5Z5GjJ2Ug"
+        }
+      ]
+    },
+    "explain": {
+      "total_mentions": 67,
+      "total_likes": 363,
+      "channel_stats": {
+        "Decided to Prepare for NEET 2026? How to PLAN your studies on Daily & Weekly basis?": {
+          "mentions": 5,
+          "likes": 34,
+          "videos_count": 1
+        },
+        "Before CHALLENGE WINDOW Closes - CONFUSION on 5 Bio Questions in NEET 2025 Explained by Dr. Sharma": {
+          "mentions": 10,
+          "likes": 157,
+          "videos_count": 1
+        },
+        "NEET 2025 was TOUGH - Rachit Expecting 689 (Crying after Exam)! Score DOES NOT Matter - Rank Matters": {
+          "mentions": 2,
+          "likes": 5,
+          "videos_count": 1
+        },
+        "8 Month Time Table for NEET 2026 dropper | Complete Syllabus by 31st Jan  #neetdroppers #neetprep": {
+          "mentions": 1,
+          "likes": 0,
+          "videos_count": 1
+        },
+        "NEET 2025 in 11 Days - Bored & Don't Feel like Studying? SATURATION? बहुत हो गयी पढाई!!!": {
+          "mentions": 1,
+          "likes": 4,
+          "videos_count": 1
+        },
+        "LAUNCHING  ASCEND - (Gradual Pace) Classroom Test Series for NEET 2026 DROPPERS!!!": {
+          "mentions": 3,
+          "likes": 2,
+          "videos_count": 1
+        },
+        "Part 3 of 3 - Documents to be UPLOADED (Identity Proof, Present & Permanent Address) for NEET 2025": {
+          "mentions": 1,
+          "likes": 0,
+          "videos_count": 1
+        },
+        "HOW to use Target Batch for NEET 2026 (No Lectures, Only MCQ Practice & Testing)?": {
+          "mentions": 2,
+          "likes": 14,
+          "videos_count": 1
+        },
+        "What HAAPENED on 4th May (NEET 2025 Exam Day)? The Super Event Explained!!!": {
+          "mentions": 1,
+          "likes": 1,
+          "videos_count": 1
+        },
+        "11th Wasted? #restart to CRACK NEET 2026 Starts RIGHT NOW!!! Step by Step Plan INSIDE.": {
+          "mentions": 1,
+          "likes": 3,
+          "videos_count": 1
+        },
+        "Section B REMOVED from NEET 2025 by NTA - What CHANGES we are making?": {
+          "mentions": 2,
+          "likes": 6,
+          "videos_count": 1
+        },
+        "Cutoff Expected to be LESS THAN 600 for NEET 2025. So what!!!": {
+          "mentions": 1,
+          "likes": 10,
+          "videos_count": 1
+        },
+        "Launching Classroom Test Series & 4 Super Course Bundles for NEET 2026 - 1st Test in 39 Days!!": {
+          "mentions": 1,
+          "likes": 0,
+          "videos_count": 1
+        },
+        "Unit #1 (NEET Bio) New NCERT DISCREPANCIES Confirmed by Dr. N.K.Sharma!!!": {
+          "mentions": 2,
+          "likes": 0,
+          "videos_count": 1
+        },
+        "STARTING NOW: 2 Level (AIIMS Level) Biology Preparation for NEET with Dr. N.K.Sharma": {
+          "mentions": 2,
+          "likes": 1,
+          "videos_count": 1
+        },
+        "Why Classroom Testing is VERY VERY Important to CRACK NEET?": {
+          "mentions": 2,
+          "likes": 0,
+          "videos_count": 1
+        },
+        "Why Kapil sir RECOMMENDS joining Residential Program of Dr. Anand Mani for NEET aspirants?": {
+          "mentions": 1,
+          "likes": 0,
+          "videos_count": 1
+        },
+        "Everything EXPLAINED about Admit Card for NEET 2025 - Must Watch (MIGHT BE FUNNY) till the end!!!": {
+          "mentions": 1,
+          "likes": 4,
+          "videos_count": 1
+        },
+        "Recommended DAILY Time Table from NOW till NEET 2025!!!": {
+          "mentions": 1,
+          "likes": 8,
+          "videos_count": 1
+        },
+        "How to IMPROVE your score SIGNIFICANTLY from now till NEET 2025? Live Session with Kapil sir!!!": {
+          "mentions": 1,
+          "likes": 0,
+          "videos_count": 1
+        },
+        "Lot of time Remaining in NEET 2026? WRONG - Only 380 Days for 3500 Hours of Studies!!!!! #neetprep": {
+          "mentions": 2,
+          "likes": 28,
+          "videos_count": 1
+        },
+        "How to Study NCERT & Practice MCQs to get Ready for NEET 2025 type TOUGH exam?": {
+          "mentions": 1,
+          "likes": 1,
+          "videos_count": 1
+        },
+        "Aryan Singh DECIDES to become a PILOT & Stops Preparing for NEET - Its OK!!!": {
+          "mentions": 4,
+          "likes": 51,
+          "videos_count": 1
+        },
+        "5 Top Recommendations for FINAL 2 Weeks before NEET 2025!!!": {
+          "mentions": 3,
+          "likes": 4,
+          "videos_count": 1
+        },
+        "NEET 2025 - Chapter & Topic Wise Analysis of Pre-Covid NEET/AIPMT Tests (180Q - 180 min)": {
+          "mentions": 1,
+          "likes": 6,
+          "videos_count": 1
+        },
+        "Launching SCORE BOOSTER - The ULTIMATE Course for Round 2 Preparation for NEET 2026 & NEET 2027?": {
+          "mentions": 1,
+          "likes": 0,
+          "videos_count": 1
+        },
+        "Should you Prepare at JEE Advanced Level to CRACK NEET? 100% NO!!!": {
+          "mentions": 1,
+          "likes": 0,
+          "videos_count": 1
+        },
+        "How to Crack NEET 2026? | Best Timetable & Preparation Strategy Explained": {
+          "mentions": 1,
+          "likes": 4,
+          "videos_count": 1
+        },
+        "6 Days Remaining in NEET 2025 - Recommendations to HANDLE Test Anxiety from Dr. N.K.Sharma!!!": {
+          "mentions": 1,
+          "likes": 4,
+          "videos_count": 1
+        },
+        "Struggling to Sleep & Stay Healthy? Guidance Video for final 5 Days before NEET 2025!!!": {
+          "mentions": 1,
+          "likes": 4,
+          "videos_count": 1
+        },
+        "Mindless MCQ Practice - BIG Mistake of a lot of NEET aspirants!!!": {
+          "mentions": 1,
+          "likes": 6,
+          "videos_count": 1
+        },
+        "NEETprep Talent Scholarship (NTS) Exam for NEET 2027 - All Details INSIDE!!!": {
+          "mentions": 1,
+          "likes": 3,
+          "videos_count": 1
+        },
+        "NEET 2026 की तैयारी का पूरा Plan  | Mishra Sir Biology | #neet2025 #neet2026": {
+          "mentions": 1,
+          "likes": 0,
+          "videos_count": 1
+        },
+        "NEET में 30 -50 Marks कैसे बढ़ाएं? | #neet2025 #neetpreparation": {
+          "mentions": 4,
+          "likes": 3,
+          "videos_count": 1
+        },
+        "NEET 2025 se seekhkar ab NEET 2026 ki preparation kese karni hai? #neet2026": {
+          "mentions": 1,
+          "likes": 0,
+          "videos_count": 1
+        },
+        "क्या NEET 2025 का result postpone होगा? | @NEETspot": {
+          "mentions": 2,
+          "likes": 0,
+          "videos_count": 1
+        }
+      },
+      "top_channels": [
+        [
+          "Before CHALLENGE WINDOW Closes - CONFUSION on 5 Bio Questions in NEET 2025 Explained by Dr. Sharma",
+          {
+            "mentions": 10,
+            "likes": 157,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Decided to Prepare for NEET 2026? How to PLAN your studies on Daily & Weekly basis?",
+          {
+            "mentions": 5,
+            "likes": 34,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Aryan Singh DECIDES to become a PILOT & Stops Preparing for NEET - Its OK!!!",
+          {
+            "mentions": 4,
+            "likes": 51,
+            "videos_count": 1
+          }
+        ],
+        [
+          "NEET में 30 -50 Marks कैसे बढ़ाएं? | #neet2025 #neetpreparation",
+          {
+            "mentions": 4,
+            "likes": 3,
+            "videos_count": 1
+          }
+        ],
+        [
+          "LAUNCHING  ASCEND - (Gradual Pace) Classroom Test Series for NEET 2026 DROPPERS!!!",
+          {
+            "mentions": 3,
+            "likes": 2,
+            "videos_count": 1
+          }
+        ],
+        [
+          "5 Top Recommendations for FINAL 2 Weeks before NEET 2025!!!",
+          {
+            "mentions": 3,
+            "likes": 4,
+            "videos_count": 1
+          }
+        ],
+        [
+          "NEET 2025 was TOUGH - Rachit Expecting 689 (Crying after Exam)! Score DOES NOT Matter - Rank Matters",
+          {
+            "mentions": 2,
+            "likes": 5,
+            "videos_count": 1
+          }
+        ],
+        [
+          "HOW to use Target Batch for NEET 2026 (No Lectures, Only MCQ Practice & Testing)?",
+          {
+            "mentions": 2,
+            "likes": 14,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Section B REMOVED from NEET 2025 by NTA - What CHANGES we are making?",
+          {
+            "mentions": 2,
+            "likes": 6,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Unit #1 (NEET Bio) New NCERT DISCREPANCIES Confirmed by Dr. N.K.Sharma!!!",
+          {
+            "mentions": 2,
+            "likes": 0,
+            "videos_count": 1
+          }
+        ],
+        [
+          "STARTING NOW: 2 Level (AIIMS Level) Biology Preparation for NEET with Dr. N.K.Sharma",
+          {
+            "mentions": 2,
+            "likes": 1,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Why Classroom Testing is VERY VERY Important to CRACK NEET?",
+          {
+            "mentions": 2,
+            "likes": 0,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Lot of time Remaining in NEET 2026? WRONG - Only 380 Days for 3500 Hours of Studies!!!!! #neetprep",
+          {
+            "mentions": 2,
+            "likes": 28,
+            "videos_count": 1
+          }
+        ],
+        [
+          "क्या NEET 2025 का result postpone होगा? | @NEETspot",
+          {
+            "mentions": 2,
+            "likes": 0,
+            "videos_count": 1
+          }
+        ],
+        [
+          "8 Month Time Table for NEET 2026 dropper | Complete Syllabus by 31st Jan  #neetdroppers #neetprep",
+          {
+            "mentions": 1,
+            "likes": 0,
+            "videos_count": 1
+          }
+        ],
+        [
+          "NEET 2025 in 11 Days - Bored & Don't Feel like Studying? SATURATION? बहुत हो गयी पढाई!!!",
+          {
+            "mentions": 1,
+            "likes": 4,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Part 3 of 3 - Documents to be UPLOADED (Identity Proof, Present & Permanent Address) for NEET 2025",
+          {
+            "mentions": 1,
+            "likes": 0,
+            "videos_count": 1
+          }
+        ],
+        [
+          "What HAAPENED on 4th May (NEET 2025 Exam Day)? The Super Event Explained!!!",
+          {
+            "mentions": 1,
+            "likes": 1,
+            "videos_count": 1
+          }
+        ],
+        [
+          "11th Wasted? #restart to CRACK NEET 2026 Starts RIGHT NOW!!! Step by Step Plan INSIDE.",
+          {
+            "mentions": 1,
+            "likes": 3,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Cutoff Expected to be LESS THAN 600 for NEET 2025. So what!!!",
+          {
+            "mentions": 1,
+            "likes": 10,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Launching Classroom Test Series & 4 Super Course Bundles for NEET 2026 - 1st Test in 39 Days!!",
+          {
+            "mentions": 1,
+            "likes": 0,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Why Kapil sir RECOMMENDS joining Residential Program of Dr. Anand Mani for NEET aspirants?",
+          {
+            "mentions": 1,
+            "likes": 0,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Everything EXPLAINED about Admit Card for NEET 2025 - Must Watch (MIGHT BE FUNNY) till the end!!!",
+          {
+            "mentions": 1,
+            "likes": 4,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Recommended DAILY Time Table from NOW till NEET 2025!!!",
+          {
+            "mentions": 1,
+            "likes": 8,
+            "videos_count": 1
+          }
+        ],
+        [
+          "How to IMPROVE your score SIGNIFICANTLY from now till NEET 2025? Live Session with Kapil sir!!!",
+          {
+            "mentions": 1,
+            "likes": 0,
+            "videos_count": 1
+          }
+        ],
+        [
+          "How to Study NCERT & Practice MCQs to get Ready for NEET 2025 type TOUGH exam?",
+          {
+            "mentions": 1,
+            "likes": 1,
+            "videos_count": 1
+          }
+        ],
+        [
+          "NEET 2025 - Chapter & Topic Wise Analysis of Pre-Covid NEET/AIPMT Tests (180Q - 180 min)",
+          {
+            "mentions": 1,
+            "likes": 6,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Launching SCORE BOOSTER - The ULTIMATE Course for Round 2 Preparation for NEET 2026 & NEET 2027?",
+          {
+            "mentions": 1,
+            "likes": 0,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Should you Prepare at JEE Advanced Level to CRACK NEET? 100% NO!!!",
+          {
+            "mentions": 1,
+            "likes": 0,
+            "videos_count": 1
+          }
+        ],
+        [
+          "How to Crack NEET 2026? | Best Timetable & Preparation Strategy Explained",
+          {
+            "mentions": 1,
+            "likes": 4,
+            "videos_count": 1
+          }
+        ],
+        [
+          "6 Days Remaining in NEET 2025 - Recommendations to HANDLE Test Anxiety from Dr. N.K.Sharma!!!",
+          {
+            "mentions": 1,
+            "likes": 4,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Struggling to Sleep & Stay Healthy? Guidance Video for final 5 Days before NEET 2025!!!",
+          {
+            "mentions": 1,
+            "likes": 4,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Mindless MCQ Practice - BIG Mistake of a lot of NEET aspirants!!!",
+          {
+            "mentions": 1,
+            "likes": 6,
+            "videos_count": 1
+          }
+        ],
+        [
+          "NEETprep Talent Scholarship (NTS) Exam for NEET 2027 - All Details INSIDE!!!",
+          {
+            "mentions": 1,
+            "likes": 3,
+            "videos_count": 1
+          }
+        ],
+        [
+          "NEET 2026 की तैयारी का पूरा Plan  | Mishra Sir Biology | #neet2025 #neet2026",
+          {
+            "mentions": 1,
+            "likes": 0,
+            "videos_count": 1
+          }
+        ],
+        [
+          "NEET 2025 se seekhkar ab NEET 2026 ki preparation kese karni hai? #neet2026",
+          {
+            "mentions": 1,
+            "likes": 0,
+            "videos_count": 1
+          }
+        ]
+      ],
+      "sentiment_breakdown": {
+        "educational": 66,
+        "positive": 1
+      },
+      "sample_comments": [
+        {
+          "comment_id": "Ugy8ByqcdmrVJjYjGal4AaABAg.AIx8mJL1dkEAIxBuj2M-Sp",
+          "text_preview": "In assertion-reason questions, a true reason must fully and directly explain the assertion, not just...",
+          "full_text": "In assertion-reason questions, a true reason must fully and directly explain the assertion, not just be ‘related’. Assertion (A) is True: The Golgi apparatus indeed packages and distributes materials (proteins/lipids) from the ER to intracellular/extracellular targets. Reason (R) is True: Vesicles from the ER fuse with the cis face, are modified, and exit via the trans face. Why (R) Does NOT Explain (A)? My submission: (R) describes the process, not the primary function. (R) explains how materials move through the Golgi (structural mechanism), but it does not address why the Golgi performs this role (functional purpose). What is missing for Option to be the correct answer? (A) emphasizes the functional outcome (delivery to targets), while (R) only describes the transport route (cis-to-trans flow). For (R) to fully explain (A), it must connect vesicle trafficking to sorting, tagging, or destination-specific delivery [Golgi is a sort of post office]. For example, \"The Golgi modifies and tags proteins with signals to direct them to specific targets.” Since the ‘why’ is not explained directly by R, the correct answer should be option 4.",
+          "likes": 34,
+          "author": "@sigmarule...2065",
+          "variations_found": [
+            "explain",
+            "explains"
+          ],
+          "sentiment": "educational",
+          "channel": "NEETprep Course: NCERT Based NEET Preparation",
+          "video_id": "sKuwqkggcnA"
+        },
+        {
+          "comment_id": "Ugy8ByqcdmrVJjYjGal4AaABAg.AIx8mJL1dkEAIxBuj2M-Sp",
+          "text_preview": "In assertion-reason questions, a true reason must fully and directly explain the assertion, not just...",
+          "full_text": "In assertion-reason questions, a true reason must fully and directly explain the assertion, not just be ‘related’. Assertion (A) is True: The Golgi apparatus indeed packages and distributes materials (proteins/lipids) from the ER to intracellular/extracellular targets. Reason (R) is True: Vesicles from the ER fuse with the cis face, are modified, and exit via the trans face. Why (R) Does NOT Explain (A)? My submission: (R) describes the process, not the primary function. (R) explains how materials move through the Golgi (structural mechanism), but it does not address why the Golgi performs this role (functional purpose). What is missing for Option to be the correct answer? (A) emphasizes the functional outcome (delivery to targets), while (R) only describes the transport route (cis-to-trans flow). For (R) to fully explain (A), it must connect vesicle trafficking to sorting, tagging, or destination-specific delivery [Golgi is a sort of post office]. For example, \"The Golgi modifies and tags proteins with signals to direct them to specific targets.” Since the ‘why’ is not explained directly by R, the correct answer should be option 4.",
+          "likes": 34,
+          "author": "@sigmarule...2065",
+          "variations_found": [
+            "explain",
+            "explains"
+          ],
+          "sentiment": "educational",
+          "channel": "NEETprep Course: NCERT Based NEET Preparation",
+          "video_id": "sKuwqkggcnA"
+        },
+        {
+          "comment_id": "UgyJzXg6w0s4fLbhRpB4AaABAg",
+          "text_preview": "Sir is spitting the truth which many yt gurus and their followers will hate.kudos to sir.They have r...",
+          "full_text": "Sir is spitting the truth which many yt gurus and their followers will hate.kudos to sir.They have right to ask anything from syllabus their is no any difficulty boundary and they have right to change the pattern from repetitive pyq based papers to conceptual understanding based paper,it’s students and their tutors mistake that they had assumed that paper will be of same pyq type.",
+          "likes": 27,
+          "author": "@RitikRanjan-v3d",
+          "variations_found": [
+            "understand"
+          ],
+          "sentiment": "educational",
+          "channel": "NEETprep Course: NCERT Based NEET Preparation",
+          "video_id": "h14veFb8604"
+        },
+        {
+          "comment_id": "Ugy3LLlxZdkRfdYKU1Z4AaABAg",
+          "text_preview": "Please explain as a dropper of 2026 should I chose target batch or jumbo test series???",
+          "full_text": "Please explain as a dropper of 2026 should I chose target batch or jumbo test series???",
+          "likes": 27,
+          "author": "@TameemShah-f7x",
+          "variations_found": [
+            "explain"
+          ],
+          "sentiment": "educational",
+          "channel": "NEETprep Course: NCERT Based NEET Preparation",
+          "video_id": "Q2fzRvM_sfM"
+        },
+        {
+          "comment_id": "UgwKXTMJw1_TflO2HwB4AaABAg",
+          "text_preview": "Congratulations aryan... Your parents are really understanding.its a blessing to have such parents..",
+          "full_text": "Congratulations aryan... Your parents are really understanding.its a blessing to have such parents..",
+          "likes": 24,
+          "author": "@amishamishra01",
+          "variations_found": [
+            "understand"
+          ],
+          "sentiment": "educational",
+          "channel": "NEETprep Course: NCERT Based NEET Preparation",
+          "video_id": "Q1IlQBfBwQY"
+        },
+        {
+          "comment_id": "UgyJ9uUzlSFTQyZQt5J4AaABAg",
+          "text_preview": "SIR is there is any High chances of having age limit and attempt limit from NEET UG EXAM 2026 😭🙏.! P...",
+          "full_text": "SIR is there is any High chances of having age limit and attempt limit from NEET UG EXAM 2026 😭🙏.! Please clarify 😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭🙏.!",
+          "likes": 10,
+          "author": "@geethamadhuri4.033",
+          "variations_found": [
+            "clarify"
+          ],
+          "sentiment": "educational",
+          "channel": "NEETprep Course: NCERT Based NEET Preparation",
+          "video_id": "2Be5l5oK0B4"
+        },
+        {
+          "comment_id": "UgzVRAvftJ1G-gXw6od4AaABAg.AIaGtlpqe3LAIaXkJt8dU8",
+          "text_preview": "Kapil here...thank you for your comment and understanding the perspective of this video...and the to...",
+          "full_text": "Kapil here...thank you for your comment and understanding the perspective of this video...and the tough choice that Aryan had to make. No one is giving him the credit for the fact that he scored 546 in 1st attempt and 480 in this tough NEET 2025 paper...probably social media has just become a place to vent out frustrations rather than see the good in people!!!",
+          "likes": 10,
+          "author": "@NEETprep",
+          "variations_found": [
+            "understand"
+          ],
+          "sentiment": "educational",
+          "channel": "NEETprep Course: NCERT Based NEET Preparation",
+          "video_id": "Q1IlQBfBwQY"
+        },
+        {
+          "comment_id": "Ugx37YPfumjf7J6JEIZ4AaABAg",
+          "text_preview": "Sir, I had messaged you regarding a mistake in NCERT. Please ask Sharma Sir to clarify it. If you sa...",
+          "full_text": "Sir, I had messaged you regarding a mistake in NCERT. Please ask Sharma Sir to clarify it. If you say so, I can send that message again.",
+          "likes": 8,
+          "author": "@unknown-i7y",
+          "variations_found": [
+            "clarify"
+          ],
+          "sentiment": "educational",
+          "channel": "NEETprep Course: NCERT Based NEET Preparation",
+          "video_id": "OjBU80tHnBU"
+        },
+        {
+          "comment_id": "UgzIPfy8O8fwvvd8QeV4AaABAg.AHKtqfM4qOPAHKxQfr_h7T",
+          "text_preview": "Hi ,meri 12th kuch din pehle khatam hui hai....I can't understand ki what should I do , should I sta...",
+          "full_text": "Hi ,meri 12th kuch din pehle khatam hui hai....I can't understand ki what should I do , should I start preparing for 2026 or do something for 2025 in these last 10 days,,I have never prepared for neet in 11th or 12th... please guide I only studied from board exam perspective...",
+          "likes": 7,
+          "author": "@saamiyaalishamsi7763",
+          "variations_found": [
+            "understand"
+          ],
+          "sentiment": "educational",
+          "channel": "NEETprep Course: NCERT Based NEET Preparation",
+          "video_id": "SQZYU-FMjJk"
+        },
+        {
+          "comment_id": "UgzIPfy8O8fwvvd8QeV4AaABAg.AHKtqfM4qOPAHKxQfr_h7T",
+          "text_preview": "Hi ,meri 12th kuch din pehle khatam hui hai....I can't understand ki what should I do , should I sta...",
+          "full_text": "Hi ,meri 12th kuch din pehle khatam hui hai....I can't understand ki what should I do , should I start preparing for 2026 or do something for 2025 in these last 10 days,,I have never prepared for neet in 11th or 12th... please guide I only studied from board exam perspective...",
+          "likes": 7,
+          "author": "@saamiyaalishamsi7763",
+          "variations_found": [
+            "understand"
+          ],
+          "sentiment": "educational",
+          "channel": "NEETprep Course: NCERT Based NEET Preparation",
+          "video_id": "SQZYU-FMjJk"
+        }
+      ]
+    },
+    "physics_wallah": {
+      "total_mentions": 10,
+      "total_likes": 10,
+      "channel_stats": {
+        "NEET 2025 was TOUGH - Rachit Expecting 689 (Crying after Exam)! Score DOES NOT Matter - Rank Matters": {
+          "mentions": 1,
+          "likes": 2,
+          "videos_count": 1
+        },
+        "NEET 2025 was TOUGH but your RANK might be VERY GOOD!!! How? Explained in this video.": {
+          "mentions": 1,
+          "likes": 3,
+          "videos_count": 1
+        },
+        "Cutoff Expected to be LESS THAN 600 for NEET 2025. So what!!!": {
+          "mentions": 1,
+          "likes": 2,
+          "videos_count": 1
+        },
+        "Why Kapil sir RECOMMENDS joining Residential Program of Dr. Anand Mani for NEET aspirants?": {
+          "mentions": 1,
+          "likes": 0,
+          "videos_count": 1
+        },
+        "JUMP of 50 Marks POSSIBLE from NOW till NEET 2025???": {
+          "mentions": 1,
+          "likes": 1,
+          "videos_count": 1
+        },
+        "NEET 2026 Dropper Complete study plan along with coaching | How to study fast for NEET?": {
+          "mentions": 1,
+          "likes": 0,
+          "videos_count": 1
+        },
+        "Want to Maximise Testing in April? Recommended Plan for NEET 2025 aspirants!!!": {
+          "mentions": 1,
+          "likes": 1,
+          "videos_count": 1
+        },
+        "Why Rachit's Father Pushed him to Attempt Test Series of NEETprep.com?": {
+          "mentions": 1,
+          "likes": 0,
+          "videos_count": 1
+        },
+        "LAUNCHING NOW - 1 year Extensive Classroom Test Series for 2027 covering Class 11th chapters!!!": {
+          "mentions": 1,
+          "likes": 0,
+          "videos_count": 1
+        },
+        "How many 30 min Concentrated Study (CS) sessions can you do in a DAY?": {
+          "mentions": 1,
+          "likes": 1,
+          "videos_count": 1
+        }
+      },
+      "top_channels": [
+        [
+          "NEET 2025 was TOUGH - Rachit Expecting 689 (Crying after Exam)! Score DOES NOT Matter - Rank Matters",
+          {
+            "mentions": 1,
+            "likes": 2,
+            "videos_count": 1
+          }
+        ],
+        [
+          "NEET 2025 was TOUGH but your RANK might be VERY GOOD!!! How? Explained in this video.",
+          {
+            "mentions": 1,
+            "likes": 3,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Cutoff Expected to be LESS THAN 600 for NEET 2025. So what!!!",
+          {
+            "mentions": 1,
+            "likes": 2,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Why Kapil sir RECOMMENDS joining Residential Program of Dr. Anand Mani for NEET aspirants?",
+          {
+            "mentions": 1,
+            "likes": 0,
+            "videos_count": 1
+          }
+        ],
+        [
+          "JUMP of 50 Marks POSSIBLE from NOW till NEET 2025???",
+          {
+            "mentions": 1,
+            "likes": 1,
+            "videos_count": 1
+          }
+        ],
+        [
+          "NEET 2026 Dropper Complete study plan along with coaching | How to study fast for NEET?",
+          {
+            "mentions": 1,
+            "likes": 0,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Want to Maximise Testing in April? Recommended Plan for NEET 2025 aspirants!!!",
+          {
+            "mentions": 1,
+            "likes": 1,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Why Rachit's Father Pushed him to Attempt Test Series of NEETprep.com?",
+          {
+            "mentions": 1,
+            "likes": 0,
+            "videos_count": 1
+          }
+        ],
+        [
+          "LAUNCHING NOW - 1 year Extensive Classroom Test Series for 2027 covering Class 11th chapters!!!",
+          {
+            "mentions": 1,
+            "likes": 0,
+            "videos_count": 1
+          }
+        ],
+        [
+          "How many 30 min Concentrated Study (CS) sessions can you do in a DAY?",
+          {
+            "mentions": 1,
+            "likes": 1,
+            "videos_count": 1
+          }
+        ]
+      ],
+      "sentiment_breakdown": {
+        "brand_mention": 10
+      },
+      "sample_comments": [
+        {
+          "comment_id": "UgwHI90Kp8VQfc2Ys7R4AaABAg",
+          "text_preview": "Sir i was an online student yakeen batch pw took a batch had no idea what backlog is eventually back...",
+          "full_text": "Sir i was an online student yakeen batch pw took a batch had no idea what backlog is eventually backlogs banta gaya pura time is backlog ko khatam karne main gya barely time for revision self studyy does this happen to everyone plus online main noted banane hote hai ya nai??",
+          "likes": 3,
+          "author": "@Idkanyone-x3v",
+          "variations_found": [
+            "pw"
+          ],
+          "sentiment": "brand_mention",
+          "channel": "NEETprep Course: NCERT Based NEET Preparation",
+          "video_id": "oLbt-g9UHEo"
+        },
+        {
+          "comment_id": "UgxgXBlTu8UGyL4_sy14AaABAg.AHm1l4O1RtmAHmTe3mLOgJ",
+          "text_preview": "​@@Freedom83125are bhai abhi ke kuch salon mein jab se pw aaya hai tab se log asan sawal krne lage h...",
+          "full_text": "​@@Freedom83125are bhai abhi ke kuch salon mein jab se pw aaya hai tab se log asan sawal krne lage hai pehle log hc verma,cengage,dc pandey,aur kya kya nhi krte the ab bhi kuch bacche krte hai",
+          "likes": 2,
+          "author": "@Pratik-gt2zc",
+          "variations_found": [
+            "pw"
+          ],
+          "sentiment": "brand_mention",
+          "channel": "NEETprep Course: NCERT Based NEET Preparation",
+          "video_id": "IlNkx2g1hls"
+        },
+        {
+          "comment_id": "UgxRhq7PabN_7R0Whfd4AaABAg",
+          "text_preview": "Each Institute has released its own answer key i.e Aakash Motion PW Allen etc etc wherein few questi...",
+          "full_text": "Each Institute has released its own answer key i.e Aakash Motion PW Allen etc etc wherein few questions answers have variation Is there a chance all institutes can release a common answer key so student would know his correct marks",
+          "likes": 2,
+          "author": "@SACHINAGGARWAL-d8h",
+          "variations_found": [
+            "pw"
+          ],
+          "sentiment": "brand_mention",
+          "channel": "NEETprep Course: NCERT Based NEET Preparation",
+          "video_id": "2Be5l5oK0B4"
+        },
+        {
+          "comment_id": "UgzRP30IGjX2JL8B70V4AaABAg.AFtuWRi78rzAFxol5jcCo8",
+          "text_preview": "​@@PWAllenNEETAspirant yrr I was thinking ki mujhe hi neetprep ke mock tests thorhe ncert se bahar l...",
+          "full_text": "​@@PWAllenNEETAspirant yrr I was thinking ki mujhe hi neetprep ke mock tests thorhe ncert se bahar lagte hai . Bio to fir b theek hai ncert based daalte hai Lekin physics to bilkul hi out of ncert vht difficult question. Ja fir they want to build our concept so that we can tackle difficult, conceptual questions in exam.",
+          "likes": 1,
+          "author": "@jyotisidhu",
+          "variations_found": [
+            "pw"
+          ],
+          "sentiment": "brand_mention",
+          "channel": "NEETprep Course: NCERT Based NEET Preparation",
+          "video_id": "XosCKmNdYMM"
+        },
+        {
+          "comment_id": "UgyYYpnGtzKY8OKPY_t4AaABAg.AG_1ljCiVZ6AG_1n48xS3G",
+          "text_preview": "Sir one more q is hyperhidrosis come under pwd or not",
+          "full_text": "Sir one more q is hyperhidrosis come under pwd or not",
+          "likes": 1,
+          "author": "@MSBT",
+          "variations_found": [
+            "pw"
+          ],
+          "sentiment": "brand_mention",
+          "channel": "NEETprep Course: NCERT Based NEET Preparation",
+          "video_id": "pCKJoScjOPc"
+        },
+        {
+          "comment_id": "Ugw2w1jd2GX2_Z84Ww14AaABAg",
+          "text_preview": "Better than PW",
+          "full_text": "Better than PW",
+          "likes": 1,
+          "author": "@Joansteen",
+          "variations_found": [
+            "pw"
+          ],
+          "sentiment": "brand_mention",
+          "channel": "NEETprep Course: NCERT Based NEET Preparation",
+          "video_id": "_j0FZnkQbDA"
+        },
+        {
+          "comment_id": "UgzIxsUG9ggQHcTwFnZ4AaABAg",
+          "text_preview": "Sir please online ko kuch mt boliye pw wale ate hi honge😢",
+          "full_text": "Sir please online ko kuch mt boliye pw wale ate hi honge😢",
+          "likes": 0,
+          "author": "@RahulSharma-v9m7k",
+          "variations_found": [
+            "pw"
+          ],
+          "sentiment": "brand_mention",
+          "channel": "NEETprep Course: NCERT Based NEET Preparation",
+          "video_id": "xvP6QE0YTg8"
+        },
+        {
+          "comment_id": "Ugw2ORc5NO4PZfudanp4AaABAg",
+          "text_preview": "Sir pura time lec+ notes main chala jata hai pw online pllz help solve this issuee plz make a video ...",
+          "full_text": "Sir pura time lec+ notes main chala jata hai pw online pllz help solve this issuee plz make a video on this also plz pl",
+          "likes": 0,
+          "author": "@Idkanyone-x3v",
+          "variations_found": [
+            "pw"
+          ],
+          "sentiment": "brand_mention",
+          "channel": "NEETprep Course: NCERT Based NEET Preparation",
+          "video_id": "K2QFMgjWdME"
+        },
+        {
+          "comment_id": "UgxYV-qCGCudpw9FduF4AaABAg",
+          "text_preview": "Sir, is he indian..? Itni angreji ye bol raha hai na tabhi shayad iska itna badiya score aaya hai , ...",
+          "full_text": "Sir, is he indian..? Itni angreji ye bol raha hai na tabhi shayad iska itna badiya score aaya hai , mujhe to nhi aati itni achchi 😢 Well I have purchased target batch with yakeen batch of pw",
+          "likes": 0,
+          "author": "@Saritadevi-j9x",
+          "variations_found": [
+            "pw"
+          ],
+          "sentiment": "brand_mention",
+          "channel": "NEETprep Course: NCERT Based NEET Preparation",
+          "video_id": "_whZPfb96Cg"
+        },
+        {
+          "comment_id": "Ugz067iAJaWcqcY0vsB4AaABAg",
+          "text_preview": "I am a pw arjuna student and want to join this test series but idk if my syllabus will be covered fr...",
+          "full_text": "I am a pw arjuna student and want to join this test series but idk if my syllabus will be covered from my batch till the date of these tests, so what should i do ?",
+          "likes": 0,
+          "author": "@misselishadewedi8482",
+          "variations_found": [
+            "pw"
+          ],
+          "sentiment": "brand_mention",
+          "channel": "NEETprep Course: NCERT Based NEET Preparation",
+          "video_id": "ODzVcVFkRs0"
+        }
+      ]
+    },
+    "neetprep": {
+      "total_mentions": 256,
+      "total_likes": 866,
+      "channel_stats": {
+        "Decided to Prepare for NEET 2026? How to PLAN your studies on Daily & Weekly basis?": {
+          "mentions": 13,
+          "likes": 18,
+          "videos_count": 1
+        },
+        "Before CHALLENGE WINDOW Closes - CONFUSION on 5 Bio Questions in NEET 2025 Explained by Dr. Sharma": {
+          "mentions": 3,
+          "likes": 9,
+          "videos_count": 1
+        },
+        "If you KNOW, You will NOT CRACK NEET 2025, What should you do?": {
+          "mentions": 2,
+          "likes": 3,
+          "videos_count": 1
+        },
+        "NEET 2025 was TOUGH - Rachit Expecting 689 (Crying after Exam)! Score DOES NOT Matter - Rank Matters": {
+          "mentions": 8,
+          "likes": 53,
+          "videos_count": 1
+        },
+        "8 Month Time Table for NEET 2026 dropper | Complete Syllabus by 31st Jan  #neetdroppers #neetprep": {
+          "mentions": 14,
+          "likes": 16,
+          "videos_count": 1
+        },
+        "NEET 2025 in 11 Days - Bored & Don't Feel like Studying? SATURATION? बहुत हो गयी पढाई!!!": {
+          "mentions": 1,
+          "likes": 20,
+          "videos_count": 1
+        },
+        "LAUNCHING  ASCEND - (Gradual Pace) Classroom Test Series for NEET 2026 DROPPERS!!!": {
+          "mentions": 10,
+          "likes": 12,
+          "videos_count": 1
+        },
+        "NEET 2025 was TOUGH but your RANK might be VERY GOOD!!! How? Explained in this video.": {
+          "mentions": 8,
+          "likes": 40,
+          "videos_count": 1
+        },
+        "HOW to use Target Batch for NEET 2026 (No Lectures, Only MCQ Practice & Testing)?": {
+          "mentions": 7,
+          "likes": 0,
+          "videos_count": 1
+        },
+        "What HAAPENED on 4th May (NEET 2025 Exam Day)? The Super Event Explained!!!": {
+          "mentions": 2,
+          "likes": 3,
+          "videos_count": 1
+        },
+        "Section B REMOVED from NEET 2025 by NTA - What CHANGES we are making?": {
+          "mentions": 1,
+          "likes": 1,
+          "videos_count": 1
+        },
+        "Cutoff Expected to be LESS THAN 600 for NEET 2025. So what!!!": {
+          "mentions": 1,
+          "likes": 73,
+          "videos_count": 1
+        },
+        "Syllabus YOU MUST follow for NEET2025 - Our Strong Recommendation after JEE Mains Controversy!!": {
+          "mentions": 2,
+          "likes": 2,
+          "videos_count": 1
+        },
+        "Launching Classroom Test Series & 4 Super Course Bundles for NEET 2026 - 1st Test in 39 Days!!": {
+          "mentions": 7,
+          "likes": 0,
+          "videos_count": 1
+        },
+        "Don't worry - You are Ready for Cracking NEET 2025 tomorrow!!!": {
+          "mentions": 2,
+          "likes": 0,
+          "videos_count": 1
+        },
+        "REALITY of NEET 2025 - Are you going to STAND Outside for 1 hour before 20 April Test?": {
+          "mentions": 9,
+          "likes": 106,
+          "videos_count": 1
+        },
+        "Most Important CHECKLIST for FINAL 55 Days (7 Sundays) before NEET 2025!!!": {
+          "mentions": 14,
+          "likes": 63,
+          "videos_count": 1
+        },
+        "Should I take a drop for NEET 2026? | How to DECIDE?": {
+          "mentions": 5,
+          "likes": 10,
+          "videos_count": 1
+        },
+        "STARTING NOW: 2 Level (AIIMS Level) Biology Preparation for NEET with Dr. N.K.Sharma": {
+          "mentions": 9,
+          "likes": 3,
+          "videos_count": 1
+        },
+        "Why Classroom Testing is VERY VERY Important to CRACK NEET?": {
+          "mentions": 6,
+          "likes": 4,
+          "videos_count": 1
+        },
+        "इन PYQs से मिलेगी NEET के paper की असली Picture | How to use PYQs in NEET 2025?  #neet2025 #pyqs": {
+          "mentions": 3,
+          "likes": 0,
+          "videos_count": 1
+        },
+        "Why Kapil sir RECOMMENDS joining Residential Program of Dr. Anand Mani for NEET aspirants?": {
+          "mentions": 12,
+          "likes": 56,
+          "videos_count": 1
+        },
+        "CAUTION: JEE Advanced Level & Outside NCERT Preparation NOT needed to CRACK NEET!!!": {
+          "mentions": 8,
+          "likes": 38,
+          "videos_count": 1
+        },
+        "How to Prepare for a TOUGH Bio Paper like in NEET 2025?": {
+          "mentions": 4,
+          "likes": 25,
+          "videos_count": 1
+        },
+        "Everything EXPLAINED about Admit Card for NEET 2025 - Must Watch (MIGHT BE FUNNY) till the end!!!": {
+          "mentions": 1,
+          "likes": 0,
+          "videos_count": 1
+        },
+        "Recommended DAILY Time Table from NOW till NEET 2025!!!": {
+          "mentions": 4,
+          "likes": 60,
+          "videos_count": 1
+        },
+        "How to IMPROVE your score SIGNIFICANTLY from now till NEET 2025? Live Session with Kapil sir!!!": {
+          "mentions": 2,
+          "likes": 1,
+          "videos_count": 1
+        },
+        "Lot of time Remaining in NEET 2026? WRONG - Only 380 Days for 3500 Hours of Studies!!!!! #neetprep": {
+          "mentions": 1,
+          "likes": 0,
+          "videos_count": 1
+        },
+        "JUMP of 50 Marks POSSIBLE from NOW till NEET 2025???": {
+          "mentions": 3,
+          "likes": 24,
+          "videos_count": 1
+        },
+        "Inspired by Jeetu Bhaiya - 21 Day Hack (Challenge) STARTING Republic Day for NEET 2025 Aspirants!!!": {
+          "mentions": 2,
+          "likes": 7,
+          "videos_count": 1
+        },
+        "How to Study NCERT & Practice MCQs to get Ready for NEET 2025 type TOUGH exam?": {
+          "mentions": 4,
+          "likes": 23,
+          "videos_count": 1
+        },
+        "Explained - 2 Level Classroom Test Series (in 280+ Centers) for NEET 2026 & NEET 2027 aspirants!!!": {
+          "mentions": 5,
+          "likes": 2,
+          "videos_count": 1
+        },
+        "What is Better? 715 score (& 15,000 Rank) OR 600 Score ( & 2000 rank)?": {
+          "mentions": 3,
+          "likes": 3,
+          "videos_count": 1
+        },
+        "Aryan Singh DECIDES to become a PILOT & Stops Preparing for NEET - Its OK!!!": {
+          "mentions": 4,
+          "likes": 27,
+          "videos_count": 1
+        },
+        "On NEET exam Day: Why you MUST fill 2 BUBBLES if you filled 1st one WRONG?": {
+          "mentions": 4,
+          "likes": 14,
+          "videos_count": 1
+        },
+        "7 minute Account of CRAZY 3 Hours (on NEET 2025 Exam Day) which left Rachit crying!!!": {
+          "mentions": 2,
+          "likes": 5,
+          "videos_count": 1
+        },
+        "How to FINISH Syllabus Faster? Video for NEET 2026 Droppers!!!": {
+          "mentions": 4,
+          "likes": 7,
+          "videos_count": 1
+        },
+        "NEET 2025 Chemistry was TOUGH? What should be YOUR STRATEGY for NEET 2026?": {
+          "mentions": 3,
+          "likes": 9,
+          "videos_count": 1
+        },
+        "5 Top Recommendations for FINAL 2 Weeks before NEET 2025!!!": {
+          "mentions": 1,
+          "likes": 0,
+          "videos_count": 1
+        },
+        "NEET 2025 - Chapter & Topic Wise Analysis of Pre-Covid NEET/AIPMT Tests (180Q - 180 min)": {
+          "mentions": 1,
+          "likes": 8,
+          "videos_count": 1
+        },
+        "Launching SCORE BOOSTER - The ULTIMATE Course for Round 2 Preparation for NEET 2026 & NEET 2027?": {
+          "mentions": 1,
+          "likes": 0,
+          "videos_count": 1
+        },
+        "NEET 2026 Dropper Complete study plan along with coaching | How to study fast for NEET?": {
+          "mentions": 5,
+          "likes": 0,
+          "videos_count": 1
+        },
+        "Are you READY to ATTEMPT NEET 2025 Every Week?": {
+          "mentions": 1,
+          "likes": 2,
+          "videos_count": 1
+        },
+        "Explained in 1 Min for NEET 2026 Aspirants - VITAL & ASCEND & Target Batch!!!": {
+          "mentions": 3,
+          "likes": 3,
+          "videos_count": 1
+        },
+        "Wasting Time Watching NEET 2025 Cut-Off Prediction Videos & Telegram Chit Chat?": {
+          "mentions": 3,
+          "likes": 5,
+          "videos_count": 1
+        },
+        "Should you Prepare at JEE Advanced Level to CRACK NEET? 100% NO!!!": {
+          "mentions": 2,
+          "likes": 2,
+          "videos_count": 1
+        },
+        "Launching SCORE BOOSTER - Start Round 2 of NEET Preparation from Day 1!!!": {
+          "mentions": 4,
+          "likes": 0,
+          "videos_count": 1
+        },
+        "Physics in NEET 2026 will be JEE Advanced Level? | How to prepare for NEET physics?": {
+          "mentions": 3,
+          "likes": 13,
+          "videos_count": 1
+        },
+        "MYTH Busted - Open Category ≠ Reservation for Gen Candidates (Explained through AIIMS Delhi Example)": {
+          "mentions": 1,
+          "likes": 2,
+          "videos_count": 1
+        },
+        "How to Crack NEET 2026? | Best Timetable & Preparation Strategy Explained": {
+          "mentions": 3,
+          "likes": 26,
+          "videos_count": 1
+        },
+        "Want to Maximise Testing in April? Recommended Plan for NEET 2025 aspirants!!!": {
+          "mentions": 3,
+          "likes": 0,
+          "videos_count": 1
+        },
+        "A to Z of TWO Year Preparation to CRACK NEET 2027 & Get into AIIMS Delhi!!!": {
+          "mentions": 4,
+          "likes": 14,
+          "videos_count": 1
+        },
+        "Invigilator, OMR problem, Tough Paper....Hey Bhagwaan, NEET Exam ke din na jaane kya kya hoga!!!": {
+          "mentions": 1,
+          "likes": 10,
+          "videos_count": 1
+        },
+        "6 Days Remaining in NEET 2025 - Recommendations to HANDLE Test Anxiety from Dr. N.K.Sharma!!!": {
+          "mentions": 1,
+          "likes": 0,
+          "videos_count": 1
+        },
+        "How to GET READY for a (possible) TOUGH NEET 2026 & NEET 2027?": {
+          "mentions": 1,
+          "likes": 6,
+          "videos_count": 1
+        },
+        "Board Exams Over - DOs & DON'Ts for Final 40 DAYS before NEET 2025!!!": {
+          "mentions": 2,
+          "likes": 4,
+          "videos_count": 1
+        },
+        "Struggling to Sleep & Stay Healthy? Guidance Video for final 5 Days before NEET 2025!!!": {
+          "mentions": 2,
+          "likes": 4,
+          "videos_count": 1
+        },
+        "How many 30 min Concentrated Study (CS) sessions can you do in a DAY?": {
+          "mentions": 2,
+          "likes": 9,
+          "videos_count": 1
+        },
+        "Mindless MCQ Practice - BIG Mistake of a lot of NEET aspirants!!!": {
+          "mentions": 2,
+          "likes": 0,
+          "videos_count": 1
+        },
+        "Good News: JEE Mains PYQs Uploaded in Every Physics Chapter in Target Batch for NEET aspirants!!!": {
+          "mentions": 1,
+          "likes": 0,
+          "videos_count": 1
+        },
+        "Explained: What is CUT-OFF? VARIED between 137 & 710 in NEET 2024 in Maulana Azad Medical College?": {
+          "mentions": 2,
+          "likes": 1,
+          "videos_count": 1
+        },
+        "3 Recommended Tips for EVERYTIME YOU WRITE MOCK TEST till NEET 2025!!!": {
+          "mentions": 2,
+          "likes": 5,
+          "videos_count": 1
+        },
+        "Oscillations - TOP 5 NEET PYQs (from 2012 to 2024)!!!": {
+          "mentions": 3,
+          "likes": 1,
+          "videos_count": 1
+        },
+        "NEET Chemistry: Concentration Cells - Problem Solving & Explanation (Shashi Sir) | #neet2025": {
+          "mentions": 1,
+          "likes": 7,
+          "videos_count": 1
+        },
+        "Should I take a drop for NEET 2026? | @NEETspot": {
+          "mentions": 1,
+          "likes": 0,
+          "videos_count": 1
+        },
+        "Parents की महनत और बच्चों का सपना | NEET Toppers की ज़िद की कहानी | MedTalks S2 | #neet": {
+          "mentions": 1,
+          "likes": 3,
+          "videos_count": 1
+        },
+        "NEET 2026 की तैयारी का पूरा Plan  | Mishra Sir Biology | #neet2025 #neet2026": {
+          "mentions": 1,
+          "likes": 0,
+          "videos_count": 1
+        },
+        "NEET में 30 -50 Marks कैसे बढ़ाएं? | #neet2025 #neetpreparation": {
+          "mentions": 1,
+          "likes": 0,
+          "videos_count": 1
+        },
+        "क्या 2 Drop के बाद भी Government Medical College मिल सकता है? | @Ayushi.Chaudhary  | Medtalks": {
+          "mentions": 1,
+          "likes": 1,
+          "videos_count": 1
+        },
+        "Can I prepare for NEET by Online coaching and NEETprep? #onlineneetcoaching #neet": {
+          "mentions": 1,
+          "likes": 1,
+          "videos_count": 1
+        },
+        "NEET Preparation में ये Mistakes करीं तो MBBS में selection भूल जाओ | @gunjannagpalvmmc #neet": {
+          "mentions": 1,
+          "likes": 2,
+          "videos_count": 1
+        },
+        "How to Use MIB- NEET - Masterclass In Biology Telegram Bot for Audio Explanations? #neet2025": {
+          "mentions": 1,
+          "likes": 0,
+          "videos_count": 1
+        }
+      },
+      "top_channels": [
+        [
+          "8 Month Time Table for NEET 2026 dropper | Complete Syllabus by 31st Jan  #neetdroppers #neetprep",
+          {
+            "mentions": 14,
+            "likes": 16,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Most Important CHECKLIST for FINAL 55 Days (7 Sundays) before NEET 2025!!!",
+          {
+            "mentions": 14,
+            "likes": 63,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Decided to Prepare for NEET 2026? How to PLAN your studies on Daily & Weekly basis?",
+          {
+            "mentions": 13,
+            "likes": 18,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Why Kapil sir RECOMMENDS joining Residential Program of Dr. Anand Mani for NEET aspirants?",
+          {
+            "mentions": 12,
+            "likes": 56,
+            "videos_count": 1
+          }
+        ],
+        [
+          "LAUNCHING  ASCEND - (Gradual Pace) Classroom Test Series for NEET 2026 DROPPERS!!!",
+          {
+            "mentions": 10,
+            "likes": 12,
+            "videos_count": 1
+          }
+        ],
+        [
+          "REALITY of NEET 2025 - Are you going to STAND Outside for 1 hour before 20 April Test?",
+          {
+            "mentions": 9,
+            "likes": 106,
+            "videos_count": 1
+          }
+        ],
+        [
+          "STARTING NOW: 2 Level (AIIMS Level) Biology Preparation for NEET with Dr. N.K.Sharma",
+          {
+            "mentions": 9,
+            "likes": 3,
+            "videos_count": 1
+          }
+        ],
+        [
+          "NEET 2025 was TOUGH - Rachit Expecting 689 (Crying after Exam)! Score DOES NOT Matter - Rank Matters",
+          {
+            "mentions": 8,
+            "likes": 53,
+            "videos_count": 1
+          }
+        ],
+        [
+          "NEET 2025 was TOUGH but your RANK might be VERY GOOD!!! How? Explained in this video.",
+          {
+            "mentions": 8,
+            "likes": 40,
+            "videos_count": 1
+          }
+        ],
+        [
+          "CAUTION: JEE Advanced Level & Outside NCERT Preparation NOT needed to CRACK NEET!!!",
+          {
+            "mentions": 8,
+            "likes": 38,
+            "videos_count": 1
+          }
+        ],
+        [
+          "HOW to use Target Batch for NEET 2026 (No Lectures, Only MCQ Practice & Testing)?",
+          {
+            "mentions": 7,
+            "likes": 0,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Launching Classroom Test Series & 4 Super Course Bundles for NEET 2026 - 1st Test in 39 Days!!",
+          {
+            "mentions": 7,
+            "likes": 0,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Why Classroom Testing is VERY VERY Important to CRACK NEET?",
+          {
+            "mentions": 6,
+            "likes": 4,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Should I take a drop for NEET 2026? | How to DECIDE?",
+          {
+            "mentions": 5,
+            "likes": 10,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Explained - 2 Level Classroom Test Series (in 280+ Centers) for NEET 2026 & NEET 2027 aspirants!!!",
+          {
+            "mentions": 5,
+            "likes": 2,
+            "videos_count": 1
+          }
+        ],
+        [
+          "NEET 2026 Dropper Complete study plan along with coaching | How to study fast for NEET?",
+          {
+            "mentions": 5,
+            "likes": 0,
+            "videos_count": 1
+          }
+        ],
+        [
+          "How to Prepare for a TOUGH Bio Paper like in NEET 2025?",
+          {
+            "mentions": 4,
+            "likes": 25,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Recommended DAILY Time Table from NOW till NEET 2025!!!",
+          {
+            "mentions": 4,
+            "likes": 60,
+            "videos_count": 1
+          }
+        ],
+        [
+          "How to Study NCERT & Practice MCQs to get Ready for NEET 2025 type TOUGH exam?",
+          {
+            "mentions": 4,
+            "likes": 23,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Aryan Singh DECIDES to become a PILOT & Stops Preparing for NEET - Its OK!!!",
+          {
+            "mentions": 4,
+            "likes": 27,
+            "videos_count": 1
+          }
+        ],
+        [
+          "On NEET exam Day: Why you MUST fill 2 BUBBLES if you filled 1st one WRONG?",
+          {
+            "mentions": 4,
+            "likes": 14,
+            "videos_count": 1
+          }
+        ],
+        [
+          "How to FINISH Syllabus Faster? Video for NEET 2026 Droppers!!!",
+          {
+            "mentions": 4,
+            "likes": 7,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Launching SCORE BOOSTER - Start Round 2 of NEET Preparation from Day 1!!!",
+          {
+            "mentions": 4,
+            "likes": 0,
+            "videos_count": 1
+          }
+        ],
+        [
+          "A to Z of TWO Year Preparation to CRACK NEET 2027 & Get into AIIMS Delhi!!!",
+          {
+            "mentions": 4,
+            "likes": 14,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Before CHALLENGE WINDOW Closes - CONFUSION on 5 Bio Questions in NEET 2025 Explained by Dr. Sharma",
+          {
+            "mentions": 3,
+            "likes": 9,
+            "videos_count": 1
+          }
+        ],
+        [
+          "इन PYQs से मिलेगी NEET के paper की असली Picture | How to use PYQs in NEET 2025?  #neet2025 #pyqs",
+          {
+            "mentions": 3,
+            "likes": 0,
+            "videos_count": 1
+          }
+        ],
+        [
+          "JUMP of 50 Marks POSSIBLE from NOW till NEET 2025???",
+          {
+            "mentions": 3,
+            "likes": 24,
+            "videos_count": 1
+          }
+        ],
+        [
+          "What is Better? 715 score (& 15,000 Rank) OR 600 Score ( & 2000 rank)?",
+          {
+            "mentions": 3,
+            "likes": 3,
+            "videos_count": 1
+          }
+        ],
+        [
+          "NEET 2025 Chemistry was TOUGH? What should be YOUR STRATEGY for NEET 2026?",
+          {
+            "mentions": 3,
+            "likes": 9,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Explained in 1 Min for NEET 2026 Aspirants - VITAL & ASCEND & Target Batch!!!",
+          {
+            "mentions": 3,
+            "likes": 3,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Wasting Time Watching NEET 2025 Cut-Off Prediction Videos & Telegram Chit Chat?",
+          {
+            "mentions": 3,
+            "likes": 5,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Physics in NEET 2026 will be JEE Advanced Level? | How to prepare for NEET physics?",
+          {
+            "mentions": 3,
+            "likes": 13,
+            "videos_count": 1
+          }
+        ],
+        [
+          "How to Crack NEET 2026? | Best Timetable & Preparation Strategy Explained",
+          {
+            "mentions": 3,
+            "likes": 26,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Want to Maximise Testing in April? Recommended Plan for NEET 2025 aspirants!!!",
+          {
+            "mentions": 3,
+            "likes": 0,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Oscillations - TOP 5 NEET PYQs (from 2012 to 2024)!!!",
+          {
+            "mentions": 3,
+            "likes": 1,
+            "videos_count": 1
+          }
+        ],
+        [
+          "If you KNOW, You will NOT CRACK NEET 2025, What should you do?",
+          {
+            "mentions": 2,
+            "likes": 3,
+            "videos_count": 1
+          }
+        ],
+        [
+          "What HAAPENED on 4th May (NEET 2025 Exam Day)? The Super Event Explained!!!",
+          {
+            "mentions": 2,
+            "likes": 3,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Syllabus YOU MUST follow for NEET2025 - Our Strong Recommendation after JEE Mains Controversy!!",
+          {
+            "mentions": 2,
+            "likes": 2,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Don't worry - You are Ready for Cracking NEET 2025 tomorrow!!!",
+          {
+            "mentions": 2,
+            "likes": 0,
+            "videos_count": 1
+          }
+        ],
+        [
+          "How to IMPROVE your score SIGNIFICANTLY from now till NEET 2025? Live Session with Kapil sir!!!",
+          {
+            "mentions": 2,
+            "likes": 1,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Inspired by Jeetu Bhaiya - 21 Day Hack (Challenge) STARTING Republic Day for NEET 2025 Aspirants!!!",
+          {
+            "mentions": 2,
+            "likes": 7,
+            "videos_count": 1
+          }
+        ],
+        [
+          "7 minute Account of CRAZY 3 Hours (on NEET 2025 Exam Day) which left Rachit crying!!!",
+          {
+            "mentions": 2,
+            "likes": 5,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Should you Prepare at JEE Advanced Level to CRACK NEET? 100% NO!!!",
+          {
+            "mentions": 2,
+            "likes": 2,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Board Exams Over - DOs & DON'Ts for Final 40 DAYS before NEET 2025!!!",
+          {
+            "mentions": 2,
+            "likes": 4,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Struggling to Sleep & Stay Healthy? Guidance Video for final 5 Days before NEET 2025!!!",
+          {
+            "mentions": 2,
+            "likes": 4,
+            "videos_count": 1
+          }
+        ],
+        [
+          "How many 30 min Concentrated Study (CS) sessions can you do in a DAY?",
+          {
+            "mentions": 2,
+            "likes": 9,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Mindless MCQ Practice - BIG Mistake of a lot of NEET aspirants!!!",
+          {
+            "mentions": 2,
+            "likes": 0,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Explained: What is CUT-OFF? VARIED between 137 & 710 in NEET 2024 in Maulana Azad Medical College?",
+          {
+            "mentions": 2,
+            "likes": 1,
+            "videos_count": 1
+          }
+        ],
+        [
+          "3 Recommended Tips for EVERYTIME YOU WRITE MOCK TEST till NEET 2025!!!",
+          {
+            "mentions": 2,
+            "likes": 5,
+            "videos_count": 1
+          }
+        ],
+        [
+          "NEET 2025 in 11 Days - Bored & Don't Feel like Studying? SATURATION? बहुत हो गयी पढाई!!!",
+          {
+            "mentions": 1,
+            "likes": 20,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Section B REMOVED from NEET 2025 by NTA - What CHANGES we are making?",
+          {
+            "mentions": 1,
+            "likes": 1,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Cutoff Expected to be LESS THAN 600 for NEET 2025. So what!!!",
+          {
+            "mentions": 1,
+            "likes": 73,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Everything EXPLAINED about Admit Card for NEET 2025 - Must Watch (MIGHT BE FUNNY) till the end!!!",
+          {
+            "mentions": 1,
+            "likes": 0,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Lot of time Remaining in NEET 2026? WRONG - Only 380 Days for 3500 Hours of Studies!!!!! #neetprep",
+          {
+            "mentions": 1,
+            "likes": 0,
+            "videos_count": 1
+          }
+        ],
+        [
+          "5 Top Recommendations for FINAL 2 Weeks before NEET 2025!!!",
+          {
+            "mentions": 1,
+            "likes": 0,
+            "videos_count": 1
+          }
+        ],
+        [
+          "NEET 2025 - Chapter & Topic Wise Analysis of Pre-Covid NEET/AIPMT Tests (180Q - 180 min)",
+          {
+            "mentions": 1,
+            "likes": 8,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Launching SCORE BOOSTER - The ULTIMATE Course for Round 2 Preparation for NEET 2026 & NEET 2027?",
+          {
+            "mentions": 1,
+            "likes": 0,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Are you READY to ATTEMPT NEET 2025 Every Week?",
+          {
+            "mentions": 1,
+            "likes": 2,
+            "videos_count": 1
+          }
+        ],
+        [
+          "MYTH Busted - Open Category ≠ Reservation for Gen Candidates (Explained through AIIMS Delhi Example)",
+          {
+            "mentions": 1,
+            "likes": 2,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Invigilator, OMR problem, Tough Paper....Hey Bhagwaan, NEET Exam ke din na jaane kya kya hoga!!!",
+          {
+            "mentions": 1,
+            "likes": 10,
+            "videos_count": 1
+          }
+        ],
+        [
+          "6 Days Remaining in NEET 2025 - Recommendations to HANDLE Test Anxiety from Dr. N.K.Sharma!!!",
+          {
+            "mentions": 1,
+            "likes": 0,
+            "videos_count": 1
+          }
+        ],
+        [
+          "How to GET READY for a (possible) TOUGH NEET 2026 & NEET 2027?",
+          {
+            "mentions": 1,
+            "likes": 6,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Good News: JEE Mains PYQs Uploaded in Every Physics Chapter in Target Batch for NEET aspirants!!!",
+          {
+            "mentions": 1,
+            "likes": 0,
+            "videos_count": 1
+          }
+        ],
+        [
+          "NEET Chemistry: Concentration Cells - Problem Solving & Explanation (Shashi Sir) | #neet2025",
+          {
+            "mentions": 1,
+            "likes": 7,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Should I take a drop for NEET 2026? | @NEETspot",
+          {
+            "mentions": 1,
+            "likes": 0,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Parents की महनत और बच्चों का सपना | NEET Toppers की ज़िद की कहानी | MedTalks S2 | #neet",
+          {
+            "mentions": 1,
+            "likes": 3,
+            "videos_count": 1
+          }
+        ],
+        [
+          "NEET 2026 की तैयारी का पूरा Plan  | Mishra Sir Biology | #neet2025 #neet2026",
+          {
+            "mentions": 1,
+            "likes": 0,
+            "videos_count": 1
+          }
+        ],
+        [
+          "NEET में 30 -50 Marks कैसे बढ़ाएं? | #neet2025 #neetpreparation",
+          {
+            "mentions": 1,
+            "likes": 0,
+            "videos_count": 1
+          }
+        ],
+        [
+          "क्या 2 Drop के बाद भी Government Medical College मिल सकता है? | @Ayushi.Chaudhary  | Medtalks",
+          {
+            "mentions": 1,
+            "likes": 1,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Can I prepare for NEET by Online coaching and NEETprep? #onlineneetcoaching #neet",
+          {
+            "mentions": 1,
+            "likes": 1,
+            "videos_count": 1
+          }
+        ],
+        [
+          "NEET Preparation में ये Mistakes करीं तो MBBS में selection भूल जाओ | @gunjannagpalvmmc #neet",
+          {
+            "mentions": 1,
+            "likes": 2,
+            "videos_count": 1
+          }
+        ],
+        [
+          "How to Use MIB- NEET - Masterclass In Biology Telegram Bot for Audio Explanations? #neet2025",
+          {
+            "mentions": 1,
+            "likes": 0,
+            "videos_count": 1
+          }
+        ]
+      ],
+      "sentiment_breakdown": {
+        "brand_mention": 249,
+        "educational": 4,
+        "positive": 3
+      },
+      "sample_comments": [
+        {
+          "comment_id": "UgwQ0uBu7n4nNVb696V4AaABAg",
+          "text_preview": "Sir iss NEET Industry ke Hawabazi mai se aap Alag the ❤aur pura NeetPrep team wins..you always prepa...",
+          "full_text": "Sir iss NEET Industry ke Hawabazi mai se aap Alag the ❤aur pura NeetPrep team wins..you always prepared us for tough to moderate paper...\"Selection MCQ practice aur testing se hota hai\"🙂",
+          "likes": 73,
+          "author": "@Dr.Rudraksh_AIIMS",
+          "variations_found": [
+            "neetprep"
+          ],
+          "sentiment": "brand_mention",
+          "channel": "NEETprep Course: NCERT Based NEET Preparation",
+          "video_id": "2Be5l5oK0B4"
+        },
+        {
+          "comment_id": "UgzxYiHky3X7ogXLEg14AaABAg",
+          "text_preview": "the worst hing is that correect ans in websites is only visible tp those who have access to neet pre...",
+          "full_text": "the worst hing is that correect ans in websites is only visible tp those who have access to neet prep courses",
+          "likes": 57,
+          "author": "@RohitPa-nw6vl",
+          "variations_found": [
+            "neet prep"
+          ],
+          "sentiment": "brand_mention",
+          "channel": "NEETprep Course: NCERT Based NEET Preparation",
+          "video_id": "OjBU80tHnBU"
+        },
+        {
+          "comment_id": "UgyzO5Z4DPSmHbHgtB94AaABAg",
+          "text_preview": "950 ka ek test itne me toh bade bade institute ka 2 test mil jata 😅hai tabhi socho log neetprep ko j...",
+          "full_text": "950 ka ek test itne me toh bade bade institute ka 2 test mil jata 😅hai tabhi socho log neetprep ko jante kyu nhi 😂hai sir its my humble request to reduce your price its too much❤",
+          "likes": 52,
+          "author": "@studychannel4008",
+          "variations_found": [
+            "neetprep"
+          ],
+          "sentiment": "brand_mention",
+          "channel": "NEETprep Course: NCERT Based NEET Preparation",
+          "video_id": "4Jnh4F_y27s"
+        },
+        {
+          "comment_id": "UgxDWF0I7OBbCfPzry14AaABAg",
+          "text_preview": "My neetprep attempted questions r not getting counted under the app !😢😢",
+          "full_text": "My neetprep attempted questions r not getting counted under the app !😢😢",
+          "likes": 35,
+          "author": "@itz_Krishna_Jagtap",
+          "variations_found": [
+            "neetprep"
+          ],
+          "sentiment": "brand_mention",
+          "channel": "NEETprep Course: NCERT Based NEET Preparation",
+          "video_id": "JwqfsV7np5E"
+        },
+        {
+          "comment_id": "UgzHDvZQwR43gHRvXRV4AaABAg",
+          "text_preview": "Sir in final test of neetprep 27 april I scored 652 but in neet expecting 540 predictions of 500 hon...",
+          "full_text": "Sir in final test of neetprep 27 april I scored 652 but in neet expecting 540 predictions of 500 honestly don't feel real as competition is so intense feels like all the hardwork has gone to waste now😢",
+          "likes": 31,
+          "author": "@Shan-pr10",
+          "variations_found": [
+            "neetprep"
+          ],
+          "sentiment": "brand_mention",
+          "channel": "NEETprep Course: NCERT Based NEET Preparation",
+          "video_id": "oLbt-g9UHEo"
+        },
+        {
+          "comment_id": "UgylrdHh6Dr3BdCYe7B4AaABAg",
+          "text_preview": "Hr jagah dekh liya.... But i am sure that neet prep ke practice que (dpp, test) sbse best hai",
+          "full_text": "Hr jagah dekh liya.... But i am sure that neet prep ke practice que (dpp, test) sbse best hai",
+          "likes": 24,
+          "author": "@KrishnaFlutesfolklore",
+          "variations_found": [
+            "neet prep"
+          ],
+          "sentiment": "brand_mention",
+          "channel": "NEETprep Course: NCERT Based NEET Preparation",
+          "video_id": "vpajOXL7rAw"
+        },
+        {
+          "comment_id": "UgymhlKD_LgPDX1IerB4AaABAg",
+          "text_preview": "guys who wants mentorsip from NEETprep 👇🏻 vote here",
+          "full_text": "guys who wants mentorsip from NEETprep 👇🏻 vote here",
+          "likes": 24,
+          "author": "@agrim391",
+          "variations_found": [
+            "neetprep"
+          ],
+          "sentiment": "brand_mention",
+          "channel": "NEETprep Course: NCERT Based NEET Preparation",
+          "video_id": "NZSfziqrzIY"
+        },
+        {
+          "comment_id": "Ugyl5Bf-3ytFF-vWq-B4AaABAg",
+          "text_preview": "I am genuinely proud that I am a NEETprep student. Practiced 20K+ questions. Biology custom tests, t...",
+          "full_text": "I am genuinely proud that I am a NEETprep student. Practiced 20K+ questions. Biology custom tests, test papers dpps, were jus awesome. Thank you KAPIL SIR N TEAM",
+          "likes": 22,
+          "author": "@Neethustler-t3b",
+          "variations_found": [
+            "neetprep"
+          ],
+          "sentiment": "positive",
+          "channel": "NEETprep Course: NCERT Based NEET Preparation",
+          "video_id": "UCceao1zo_g"
+        },
+        {
+          "comment_id": "UgwEAtdvdFXG0Wn4Jax4AaABAg",
+          "text_preview": "Sir mera 5 th attempt tha. Aur score 463 bnn rhe h pr mei fir se drop le rhi hu to ye mera dicision ...",
+          "full_text": "Sir mera 5 th attempt tha. Aur score 463 bnn rhe h pr mei fir se drop le rhi hu to ye mera dicision Sahi h na aur neetprep ka target batch fir se lungi pichhle baar v li thi batch pr 6000 7000 question practice bs ki thi pr isss baar bahut sara practice krenge aur 2026 mei aiims Jakr rahungi. Mera promise h khud se ..",
+          "likes": 22,
+          "author": "@NehaPrasadShah",
+          "variations_found": [
+            "neetprep"
+          ],
+          "sentiment": "brand_mention",
+          "channel": "NEETprep Course: NCERT Based NEET Preparation",
+          "video_id": "FSQN7NE03Go"
+        },
+        {
+          "comment_id": "Ugw5VJ9psc2E7BYVviJ4AaABAg",
+          "text_preview": "sir I am scoring 640+ in neetprep , the day you told ''620+ walo ka selection secure hai '',,,, sinc...",
+          "full_text": "sir I am scoring 640+ in neetprep , the day you told ''620+ walo ka selection secure hai '',,,, since that day there's dopamine flood in my body with , studying 12-14 hrs with full happiness , now studying and just waiting for 4th may ...........",
+          "likes": 20,
+          "author": "@YASHKUMAR-yg6du",
+          "variations_found": [
+            "neetprep"
+          ],
+          "sentiment": "brand_mention",
+          "channel": "NEETprep Course: NCERT Based NEET Preparation",
+          "video_id": "MhjpEQcemYY"
+        }
+      ]
+    },
+    "neet": {
+      "total_mentions": 614,
+      "total_likes": 2709,
+      "channel_stats": {
+        "Decided to Prepare for NEET 2026? How to PLAN your studies on Daily & Weekly basis?": {
+          "mentions": 45,
+          "likes": 456,
+          "videos_count": 1
+        },
+        "Before CHALLENGE WINDOW Closes - CONFUSION on 5 Bio Questions in NEET 2025 Explained by Dr. Sharma": {
+          "mentions": 4,
+          "likes": 15,
+          "videos_count": 1
+        },
+        "If you KNOW, You will NOT CRACK NEET 2025, What should you do?": {
+          "mentions": 21,
+          "likes": 210,
+          "videos_count": 1
+        },
+        "NEET 2025 was TOUGH - Rachit Expecting 689 (Crying after Exam)! Score DOES NOT Matter - Rank Matters": {
+          "mentions": 13,
+          "likes": 89,
+          "videos_count": 1
+        },
+        "8 Month Time Table for NEET 2026 dropper | Complete Syllabus by 31st Jan  #neetdroppers #neetprep": {
+          "mentions": 22,
+          "likes": 26,
+          "videos_count": 1
+        },
+        "NEET 2025 in 11 Days - Bored & Don't Feel like Studying? SATURATION? बहुत हो गयी पढाई!!!": {
+          "mentions": 12,
+          "likes": 47,
+          "videos_count": 1
+        },
+        "LAUNCHING  ASCEND - (Gradual Pace) Classroom Test Series for NEET 2026 DROPPERS!!!": {
+          "mentions": 13,
+          "likes": 12,
+          "videos_count": 1
+        },
+        "NEET 2025 was TOUGH but your RANK might be VERY GOOD!!! How? Explained in this video.": {
+          "mentions": 8,
+          "likes": 40,
+          "videos_count": 1
+        },
+        "HOW to use Target Batch for NEET 2026 (No Lectures, Only MCQ Practice & Testing)?": {
+          "mentions": 24,
+          "likes": 76,
+          "videos_count": 1
+        },
+        "What HAAPENED on 4th May (NEET 2025 Exam Day)? The Super Event Explained!!!": {
+          "mentions": 7,
+          "likes": 35,
+          "videos_count": 1
+        },
+        "11th Wasted? #restart to CRACK NEET 2026 Starts RIGHT NOW!!! Step by Step Plan INSIDE.": {
+          "mentions": 21,
+          "likes": 53,
+          "videos_count": 1
+        },
+        "Section B REMOVED from NEET 2025 by NTA - What CHANGES we are making?": {
+          "mentions": 1,
+          "likes": 1,
+          "videos_count": 1
+        },
+        "Cutoff Expected to be LESS THAN 600 for NEET 2025. So what!!!": {
+          "mentions": 9,
+          "likes": 229,
+          "videos_count": 1
+        },
+        "Syllabus YOU MUST follow for NEET2025 - Our Strong Recommendation after JEE Mains Controversy!!": {
+          "mentions": 2,
+          "likes": 2,
+          "videos_count": 1
+        },
+        "Launching Classroom Test Series & 4 Super Course Bundles for NEET 2026 - 1st Test in 39 Days!!": {
+          "mentions": 10,
+          "likes": 3,
+          "videos_count": 1
+        },
+        "Don't worry - You are Ready for Cracking NEET 2025 tomorrow!!!": {
+          "mentions": 2,
+          "likes": 0,
+          "videos_count": 1
+        },
+        "REALITY of NEET 2025 - Are you going to STAND Outside for 1 hour before 20 April Test?": {
+          "mentions": 18,
+          "likes": 131,
+          "videos_count": 1
+        },
+        "Most Important CHECKLIST for FINAL 55 Days (7 Sundays) before NEET 2025!!!": {
+          "mentions": 19,
+          "likes": 76,
+          "videos_count": 1
+        },
+        "Unit #1 (NEET Bio) New NCERT DISCREPANCIES Confirmed by Dr. N.K.Sharma!!!": {
+          "mentions": 3,
+          "likes": 0,
+          "videos_count": 1
+        },
+        "Should I take a drop for NEET 2026? | How to DECIDE?": {
+          "mentions": 6,
+          "likes": 49,
+          "videos_count": 1
+        },
+        "STARTING NOW: 2 Level (AIIMS Level) Biology Preparation for NEET with Dr. N.K.Sharma": {
+          "mentions": 15,
+          "likes": 61,
+          "videos_count": 1
+        },
+        "Why Classroom Testing is VERY VERY Important to CRACK NEET?": {
+          "mentions": 7,
+          "likes": 4,
+          "videos_count": 1
+        },
+        "इन PYQs से मिलेगी NEET के paper की असली Picture | How to use PYQs in NEET 2025?  #neet2025 #pyqs": {
+          "mentions": 4,
+          "likes": 0,
+          "videos_count": 1
+        },
+        "Why Kapil sir RECOMMENDS joining Residential Program of Dr. Anand Mani for NEET aspirants?": {
+          "mentions": 17,
+          "likes": 63,
+          "videos_count": 1
+        },
+        "CAUTION: JEE Advanced Level & Outside NCERT Preparation NOT needed to CRACK NEET!!!": {
+          "mentions": 13,
+          "likes": 53,
+          "videos_count": 1
+        },
+        "Methodical Approach to Target 700+ in Remaining 70 Days to NEET 2025!!!": {
+          "mentions": 1,
+          "likes": 4,
+          "videos_count": 1
+        },
+        "How to Prepare for a TOUGH Bio Paper like in NEET 2025?": {
+          "mentions": 7,
+          "likes": 30,
+          "videos_count": 1
+        },
+        "Everything EXPLAINED about Admit Card for NEET 2025 - Must Watch (MIGHT BE FUNNY) till the end!!!": {
+          "mentions": 6,
+          "likes": 24,
+          "videos_count": 1
+        },
+        "Recommended DAILY Time Table from NOW till NEET 2025!!!": {
+          "mentions": 6,
+          "likes": 60,
+          "videos_count": 1
+        },
+        "How to IMPROVE your score SIGNIFICANTLY from now till NEET 2025? Live Session with Kapil sir!!!": {
+          "mentions": 2,
+          "likes": 1,
+          "videos_count": 1
+        },
+        "Lot of time Remaining in NEET 2026? WRONG - Only 380 Days for 3500 Hours of Studies!!!!! #neetprep": {
+          "mentions": 9,
+          "likes": 19,
+          "videos_count": 1
+        },
+        "The Topper Protocol - Recommendations from Shubhan Sengupta (Rank 1 NEET 2024) for NEET 2025": {
+          "mentions": 1,
+          "likes": 4,
+          "videos_count": 1
+        },
+        "JUMP of 50 Marks POSSIBLE from NOW till NEET 2025???": {
+          "mentions": 8,
+          "likes": 51,
+          "videos_count": 1
+        },
+        "Inspired by Jeetu Bhaiya - 21 Day Hack (Challenge) STARTING Republic Day for NEET 2025 Aspirants!!!": {
+          "mentions": 2,
+          "likes": 7,
+          "videos_count": 1
+        },
+        "How to Study NCERT & Practice MCQs to get Ready for NEET 2025 type TOUGH exam?": {
+          "mentions": 9,
+          "likes": 33,
+          "videos_count": 1
+        },
+        "Explained - 2 Level Classroom Test Series (in 280+ Centers) for NEET 2026 & NEET 2027 aspirants!!!": {
+          "mentions": 6,
+          "likes": 2,
+          "videos_count": 1
+        },
+        "What is Better? 715 score (& 15,000 Rank) OR 600 Score ( & 2000 rank)?": {
+          "mentions": 10,
+          "likes": 56,
+          "videos_count": 1
+        },
+        "Aryan Singh DECIDES to become a PILOT & Stops Preparing for NEET - Its OK!!!": {
+          "mentions": 12,
+          "likes": 91,
+          "videos_count": 1
+        },
+        "On NEET exam Day: Why you MUST fill 2 BUBBLES if you filled 1st one WRONG?": {
+          "mentions": 6,
+          "likes": 34,
+          "videos_count": 1
+        },
+        "7 minute Account of CRAZY 3 Hours (on NEET 2025 Exam Day) which left Rachit crying!!!": {
+          "mentions": 5,
+          "likes": 26,
+          "videos_count": 1
+        },
+        "How to FINISH Syllabus Faster? Video for NEET 2026 Droppers!!!": {
+          "mentions": 6,
+          "likes": 11,
+          "videos_count": 1
+        },
+        "NEET 2025 Chemistry was TOUGH? What should be YOUR STRATEGY for NEET 2026?": {
+          "mentions": 5,
+          "likes": 14,
+          "videos_count": 1
+        },
+        "5 Top Recommendations for FINAL 2 Weeks before NEET 2025!!!": {
+          "mentions": 3,
+          "likes": 0,
+          "videos_count": 1
+        },
+        "NEET 2025 - Chapter & Topic Wise Analysis of Pre-Covid NEET/AIPMT Tests (180Q - 180 min)": {
+          "mentions": 1,
+          "likes": 8,
+          "videos_count": 1
+        },
+        "Launching SCORE BOOSTER - The ULTIMATE Course for Round 2 Preparation for NEET 2026 & NEET 2027?": {
+          "mentions": 3,
+          "likes": 14,
+          "videos_count": 1
+        },
+        "NEET 2026 Dropper Complete study plan along with coaching | How to study fast for NEET?": {
+          "mentions": 6,
+          "likes": 0,
+          "videos_count": 1
+        },
+        "Are you READY to ATTEMPT NEET 2025 Every Week?": {
+          "mentions": 1,
+          "likes": 2,
+          "videos_count": 1
+        },
+        "Explained in 1 Min for NEET 2026 Aspirants - VITAL & ASCEND & Target Batch!!!": {
+          "mentions": 4,
+          "likes": 9,
+          "videos_count": 1
+        },
+        "Wasting Time Watching NEET 2025 Cut-Off Prediction Videos & Telegram Chit Chat?": {
+          "mentions": 5,
+          "likes": 34,
+          "videos_count": 1
+        },
+        "Should you Prepare at JEE Advanced Level to CRACK NEET? 100% NO!!!": {
+          "mentions": 8,
+          "likes": 40,
+          "videos_count": 1
+        },
+        "Launching SCORE BOOSTER - Start Round 2 of NEET Preparation from Day 1!!!": {
+          "mentions": 7,
+          "likes": 83,
+          "videos_count": 1
+        },
+        "Physics in NEET 2026 will be JEE Advanced Level? | How to prepare for NEET physics?": {
+          "mentions": 3,
+          "likes": 13,
+          "videos_count": 1
+        },
+        "NEET 2025 - Fastest Answer key | Live Paper Solving & Expected Cut-Off #neet2025": {
+          "mentions": 2,
+          "likes": 3,
+          "videos_count": 1
+        },
+        "MYTH Busted - Open Category ≠ Reservation for Gen Candidates (Explained through AIIMS Delhi Example)": {
+          "mentions": 2,
+          "likes": 3,
+          "videos_count": 1
+        },
+        "How to Crack NEET 2026? | Best Timetable & Preparation Strategy Explained": {
+          "mentions": 4,
+          "likes": 26,
+          "videos_count": 1
+        },
+        "Want to Maximise Testing in April? Recommended Plan for NEET 2025 aspirants!!!": {
+          "mentions": 8,
+          "likes": 13,
+          "videos_count": 1
+        },
+        "A to Z of TWO Year Preparation to CRACK NEET 2027 & Get into AIIMS Delhi!!!": {
+          "mentions": 12,
+          "likes": 111,
+          "videos_count": 1
+        },
+        "90 Days Remaining in NEET 2025 - Have you Frozen your Testing Time Table?": {
+          "mentions": 1,
+          "likes": 0,
+          "videos_count": 1
+        },
+        "5 Readiness Parameters for NEET 2025 - 9 Weeks & 9 Tests to GET READY for 10th Test on 4th May!!!": {
+          "mentions": 1,
+          "likes": 0,
+          "videos_count": 1
+        },
+        "Invigilator, OMR problem, Tough Paper....Hey Bhagwaan, NEET Exam ke din na jaane kya kya hoga!!!": {
+          "mentions": 3,
+          "likes": 20,
+          "videos_count": 1
+        },
+        "Simple but tricky problem on Nernst equation | Nernst Equation Simplified | #neet2025 #neetchemistry": {
+          "mentions": 4,
+          "likes": 13,
+          "videos_count": 1
+        },
+        "Why Rachit's Father Pushed him to Attempt Test Series of NEETprep.com?": {
+          "mentions": 3,
+          "likes": 1,
+          "videos_count": 1
+        },
+        "6 Days Remaining in NEET 2025 - Recommendations to HANDLE Test Anxiety from Dr. N.K.Sharma!!!": {
+          "mentions": 3,
+          "likes": 5,
+          "videos_count": 1
+        },
+        "How to GET READY for a (possible) TOUGH NEET 2026 & NEET 2027?": {
+          "mentions": 2,
+          "likes": 11,
+          "videos_count": 1
+        },
+        "Board Exams Over - DOs & DON'Ts for Final 40 DAYS before NEET 2025!!!": {
+          "mentions": 2,
+          "likes": 4,
+          "videos_count": 1
+        },
+        "LAUNCHING NOW - 1 year Extensive Classroom Test Series for 2027 covering Class 11th chapters!!!": {
+          "mentions": 4,
+          "likes": 7,
+          "videos_count": 1
+        },
+        "TESTING for NEET 2026 Starts TOMORROW (8th June), 1:30 p.m. for ENROLLED students on NEETprep.com": {
+          "mentions": 1,
+          "likes": 1,
+          "videos_count": 1
+        },
+        "AIIMS Delhi POSSIBLE in NEET 2026 if you START NOW? 100% Yes. 21 Day Hack starting for NEET 2026!!": {
+          "mentions": 1,
+          "likes": 0,
+          "videos_count": 1
+        },
+        "Struggling to Sleep & Stay Healthy? Guidance Video for final 5 Days before NEET 2025!!!": {
+          "mentions": 3,
+          "likes": 4,
+          "videos_count": 1
+        },
+        "How many 30 min Concentrated Study (CS) sessions can you do in a DAY?": {
+          "mentions": 2,
+          "likes": 9,
+          "videos_count": 1
+        },
+        "Mindless MCQ Practice - BIG Mistake of a lot of NEET aspirants!!!": {
+          "mentions": 3,
+          "likes": 2,
+          "videos_count": 1
+        },
+        "Good News: JEE Mains PYQs Uploaded in Every Physics Chapter in Target Batch for NEET aspirants!!!": {
+          "mentions": 1,
+          "likes": 0,
+          "videos_count": 1
+        },
+        "जागो Today - IF you are Targeting AIIMS Dellhi in NEET 2026 - Featuring Dr. Aryan Raj Singh!!!": {
+          "mentions": 1,
+          "likes": 0,
+          "videos_count": 1
+        },
+        "Explained: What is CUT-OFF? VARIED between 137 & 710 in NEET 2024 in Maulana Azad Medical College?": {
+          "mentions": 3,
+          "likes": 2,
+          "videos_count": 1
+        },
+        "EXPLAINED  - ESIC Quota in MBBS Seats for NEET Aspirants!!!": {
+          "mentions": 1,
+          "likes": 0,
+          "videos_count": 1
+        },
+        "3 Recommended Tips for EVERYTIME YOU WRITE MOCK TEST till NEET 2025!!!": {
+          "mentions": 3,
+          "likes": 5,
+          "videos_count": 1
+        },
+        "Mock Test Sunday (13 April) For NEET 2025 Aspirants - Get READY - JOIN Kapil Sir Live At 1:45 pm!": {
+          "mentions": 1,
+          "likes": 0,
+          "videos_count": 1
+        },
+        "Understanding d and f Block Elements for NEET 2025 | Chemistry for NEET with Shashi Sir": {
+          "mentions": 1,
+          "likes": 0,
+          "videos_count": 1
+        },
+        "NEETprep Talent Scholarship (NTS) Exam for NEET 2027 - All Details INSIDE!!!": {
+          "mentions": 2,
+          "likes": 12,
+          "videos_count": 1
+        },
+        "Target AIIMS Delhi in NEET 2026? 21 Day Hack STARTS Today at 09:00 p.m. on ZOOM!!!": {
+          "mentions": 2,
+          "likes": 1,
+          "videos_count": 1
+        },
+        "Oscillations - TOP 5 NEET PYQs (from 2012 to 2024)!!!": {
+          "mentions": 3,
+          "likes": 1,
+          "videos_count": 1
+        },
+        "Mock Test Sunday (27 April) For NEET 2025 Aspirants - Get READY - JOIN Kapil Sir Live At 1:45 pm!": {
+          "mentions": 2,
+          "likes": 0,
+          "videos_count": 1
+        },
+        "NEET 2025 Exam Day - Live with Kapil sir at 10:30 a.m.": {
+          "mentions": 1,
+          "likes": 0,
+          "videos_count": 1
+        },
+        "NEET Chemistry: Concentration Cells - Problem Solving & Explanation (Shashi Sir) | #neet2025": {
+          "mentions": 2,
+          "likes": 7,
+          "videos_count": 1
+        },
+        "Chemical properties of d block elements | NEET Chemistry by Shashi Sir | #neet2025 #chemistry": {
+          "mentions": 1,
+          "likes": 0,
+          "videos_count": 1
+        },
+        "NEET 2025 की तैयारी का Last Month | क्या करें और क्या ना करें? | NEET Sisters | Medtalks Season 2": {
+          "mentions": 4,
+          "likes": 2,
+          "videos_count": 1
+        },
+        "AIIMS से नीचे कुछ नहीं चाहिए पर!  @RASHMIAIIMSDELHI1722 को ऐसे मिला AIIMS Delhi #aiimsdelhi": {
+          "mentions": 1,
+          "likes": 0,
+          "videos_count": 1
+        },
+        "How to get 360 in biology in NEET 2026 and NEET 2027? | Masterclass in Biology": {
+          "mentions": 1,
+          "likes": 0,
+          "videos_count": 1
+        },
+        "NEET Physics Level 2 Karela book Giveaway Results | #neetphysics #neetprep": {
+          "mentions": 4,
+          "likes": 0,
+          "videos_count": 1
+        },
+        "NEET 2026 aspirants की Physics problem का solution | Level 2 Physics Book free | #neet2026": {
+          "mentions": 3,
+          "likes": 4,
+          "videos_count": 1
+        },
+        "Should I take a drop for NEET 2026? | @NEETspot": {
+          "mentions": 7,
+          "likes": 4,
+          "videos_count": 1
+        },
+        "Parents की महनत और बच्चों का सपना | NEET Toppers की ज़िद की कहानी | MedTalks S2 | #neet": {
+          "mentions": 7,
+          "likes": 14,
+          "videos_count": 1
+        },
+        "NEET 2026 की तैयारी का पूरा Plan  | Mishra Sir Biology | #neet2025 #neet2026": {
+          "mentions": 5,
+          "likes": 0,
+          "videos_count": 1
+        },
+        "NEET 2025  के लिए तैयार हो ना? #aiimsdelhimotivation #aiimsdelhi": {
+          "mentions": 1,
+          "likes": 2,
+          "videos_count": 1
+        },
+        "NEET 2026 Aspirants You can Get the Physics Karela Book | #neet2025 #neetphysics": {
+          "mentions": 3,
+          "likes": 0,
+          "videos_count": 1
+        },
+        "NEET में 30 -50 Marks कैसे बढ़ाएं? | #neet2025 #neetpreparation": {
+          "mentions": 6,
+          "likes": 4,
+          "videos_count": 1
+        },
+        "बेटे का NEET  Crack करवा दिया | NEET की जंग में पापा ने बना डाला बेटे को Topper | #neet2025 #podcast": {
+          "mentions": 1,
+          "likes": 2,
+          "videos_count": 1
+        },
+        "Best biology questions for NEET 2026  Giveaway": {
+          "mentions": 1,
+          "likes": 0,
+          "videos_count": 1
+        },
+        "Doctor बनने में आखिर कितने साल लगते हैं? | @RishabhJain2970 ने बताया |  #aiimsdelhi #doctors": {
+          "mentions": 1,
+          "likes": 0,
+          "videos_count": 1
+        },
+        "NEET 2026 में Chemistry  की तैयारी कैसे करनी है?  | Level of Exam & Preparation | #neet2025": {
+          "mentions": 3,
+          "likes": 1,
+          "videos_count": 1
+        },
+        "Is baar NEET crack karke rahunga #neet2025 #neetmotivation": {
+          "mentions": 1,
+          "likes": 0,
+          "videos_count": 1
+        },
+        "NEET 2025 se seekhkar ab NEET 2026 ki preparation kese karni hai? #neet2026": {
+          "mentions": 2,
+          "likes": 0,
+          "videos_count": 1
+        },
+        "Parents during the NEET preparation of their child | #neet2025  #finalday": {
+          "mentions": 2,
+          "likes": 3,
+          "videos_count": 1
+        },
+        "NEET Physics problem solved | #neetphysics #neet2025": {
+          "mentions": 1,
+          "likes": 0,
+          "videos_count": 1
+        },
+        "How to solve NEET 2025 Question Paper? Tips by Aryan Raj Singh #neet2025 #aiimsdelhi": {
+          "mentions": 1,
+          "likes": 0,
+          "videos_count": 1
+        },
+        "क्या 2 Drop के बाद भी Government Medical College मिल सकता है? | @Ayushi.Chaudhary  | Medtalks": {
+          "mentions": 3,
+          "likes": 3,
+          "videos_count": 1
+        },
+        "Can I prepare for NEET by Online coaching and NEETprep? #onlineneetcoaching #neet": {
+          "mentions": 1,
+          "likes": 1,
+          "videos_count": 1
+        },
+        "क्या NEET 2025 का result postpone होगा? | @NEETspot": {
+          "mentions": 2,
+          "likes": 0,
+          "videos_count": 1
+        },
+        "NEET में 3 Attempt फिर ऐसे किया NEET Crack | Med Talks Podcast |@NEETspot": {
+          "mentions": 1,
+          "likes": 2,
+          "videos_count": 1
+        },
+        "CBSE Board Result 2025 | Big Announcement for NEET 2026 Aspirants #neet2026 #cbseresults": {
+          "mentions": 1,
+          "likes": 0,
+          "videos_count": 1
+        },
+        "Kya Aap NEET 2025 jese exam k liye ready the? #neet2025": {
+          "mentions": 1,
+          "likes": 0,
+          "videos_count": 1
+        },
+        "Student Reaction on NEET 2025 Exam  #neet2025 #studentreactions": {
+          "mentions": 1,
+          "likes": 0,
+          "videos_count": 1
+        },
+        "NEET Preparation में ये Mistakes करीं तो MBBS में selection भूल जाओ | @gunjannagpalvmmc #neet": {
+          "mentions": 1,
+          "likes": 2,
+          "videos_count": 1
+        },
+        "क्या 12th Boards के साथ NEET Crack कर सकते हैं? | #neet2025 #class12": {
+          "mentions": 1,
+          "likes": 2,
+          "videos_count": 1
+        },
+        "Hume apko NEET ready karna hai jhoote wade nahi!! #neet2025 #physics": {
+          "mentions": 1,
+          "likes": 1,
+          "videos_count": 1
+        },
+        "Biggest Motivation माँ का Sacrifice और support in NEET": {
+          "mentions": 1,
+          "likes": 0,
+          "videos_count": 1
+        },
+        "Boards के बाद NEET के लिए Motivation नहीं बचा? #neet2025 #neetmotivation": {
+          "mentions": 1,
+          "likes": 0,
+          "videos_count": 1
+        },
+        "How to Use MIB- NEET - Masterclass In Biology Telegram Bot for Audio Explanations? #neet2025": {
+          "mentions": 1,
+          "likes": 0,
+          "videos_count": 1
+        }
+      },
+      "top_channels": [
+        [
+          "Decided to Prepare for NEET 2026? How to PLAN your studies on Daily & Weekly basis?",
+          {
+            "mentions": 45,
+            "likes": 456,
+            "videos_count": 1
+          }
+        ],
+        [
+          "HOW to use Target Batch for NEET 2026 (No Lectures, Only MCQ Practice & Testing)?",
+          {
+            "mentions": 24,
+            "likes": 76,
+            "videos_count": 1
+          }
+        ],
+        [
+          "8 Month Time Table for NEET 2026 dropper | Complete Syllabus by 31st Jan  #neetdroppers #neetprep",
+          {
+            "mentions": 22,
+            "likes": 26,
+            "videos_count": 1
+          }
+        ],
+        [
+          "If you KNOW, You will NOT CRACK NEET 2025, What should you do?",
+          {
+            "mentions": 21,
+            "likes": 210,
+            "videos_count": 1
+          }
+        ],
+        [
+          "11th Wasted? #restart to CRACK NEET 2026 Starts RIGHT NOW!!! Step by Step Plan INSIDE.",
+          {
+            "mentions": 21,
+            "likes": 53,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Most Important CHECKLIST for FINAL 55 Days (7 Sundays) before NEET 2025!!!",
+          {
+            "mentions": 19,
+            "likes": 76,
+            "videos_count": 1
+          }
+        ],
+        [
+          "REALITY of NEET 2025 - Are you going to STAND Outside for 1 hour before 20 April Test?",
+          {
+            "mentions": 18,
+            "likes": 131,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Why Kapil sir RECOMMENDS joining Residential Program of Dr. Anand Mani for NEET aspirants?",
+          {
+            "mentions": 17,
+            "likes": 63,
+            "videos_count": 1
+          }
+        ],
+        [
+          "STARTING NOW: 2 Level (AIIMS Level) Biology Preparation for NEET with Dr. N.K.Sharma",
+          {
+            "mentions": 15,
+            "likes": 61,
+            "videos_count": 1
+          }
+        ],
+        [
+          "NEET 2025 was TOUGH - Rachit Expecting 689 (Crying after Exam)! Score DOES NOT Matter - Rank Matters",
+          {
+            "mentions": 13,
+            "likes": 89,
+            "videos_count": 1
+          }
+        ],
+        [
+          "LAUNCHING  ASCEND - (Gradual Pace) Classroom Test Series for NEET 2026 DROPPERS!!!",
+          {
+            "mentions": 13,
+            "likes": 12,
+            "videos_count": 1
+          }
+        ],
+        [
+          "CAUTION: JEE Advanced Level & Outside NCERT Preparation NOT needed to CRACK NEET!!!",
+          {
+            "mentions": 13,
+            "likes": 53,
+            "videos_count": 1
+          }
+        ],
+        [
+          "NEET 2025 in 11 Days - Bored & Don't Feel like Studying? SATURATION? बहुत हो गयी पढाई!!!",
+          {
+            "mentions": 12,
+            "likes": 47,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Aryan Singh DECIDES to become a PILOT & Stops Preparing for NEET - Its OK!!!",
+          {
+            "mentions": 12,
+            "likes": 91,
+            "videos_count": 1
+          }
+        ],
+        [
+          "A to Z of TWO Year Preparation to CRACK NEET 2027 & Get into AIIMS Delhi!!!",
+          {
+            "mentions": 12,
+            "likes": 111,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Launching Classroom Test Series & 4 Super Course Bundles for NEET 2026 - 1st Test in 39 Days!!",
+          {
+            "mentions": 10,
+            "likes": 3,
+            "videos_count": 1
+          }
+        ],
+        [
+          "What is Better? 715 score (& 15,000 Rank) OR 600 Score ( & 2000 rank)?",
+          {
+            "mentions": 10,
+            "likes": 56,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Cutoff Expected to be LESS THAN 600 for NEET 2025. So what!!!",
+          {
+            "mentions": 9,
+            "likes": 229,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Lot of time Remaining in NEET 2026? WRONG - Only 380 Days for 3500 Hours of Studies!!!!! #neetprep",
+          {
+            "mentions": 9,
+            "likes": 19,
+            "videos_count": 1
+          }
+        ],
+        [
+          "How to Study NCERT & Practice MCQs to get Ready for NEET 2025 type TOUGH exam?",
+          {
+            "mentions": 9,
+            "likes": 33,
+            "videos_count": 1
+          }
+        ],
+        [
+          "NEET 2025 was TOUGH but your RANK might be VERY GOOD!!! How? Explained in this video.",
+          {
+            "mentions": 8,
+            "likes": 40,
+            "videos_count": 1
+          }
+        ],
+        [
+          "JUMP of 50 Marks POSSIBLE from NOW till NEET 2025???",
+          {
+            "mentions": 8,
+            "likes": 51,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Should you Prepare at JEE Advanced Level to CRACK NEET? 100% NO!!!",
+          {
+            "mentions": 8,
+            "likes": 40,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Want to Maximise Testing in April? Recommended Plan for NEET 2025 aspirants!!!",
+          {
+            "mentions": 8,
+            "likes": 13,
+            "videos_count": 1
+          }
+        ],
+        [
+          "What HAAPENED on 4th May (NEET 2025 Exam Day)? The Super Event Explained!!!",
+          {
+            "mentions": 7,
+            "likes": 35,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Why Classroom Testing is VERY VERY Important to CRACK NEET?",
+          {
+            "mentions": 7,
+            "likes": 4,
+            "videos_count": 1
+          }
+        ],
+        [
+          "How to Prepare for a TOUGH Bio Paper like in NEET 2025?",
+          {
+            "mentions": 7,
+            "likes": 30,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Launching SCORE BOOSTER - Start Round 2 of NEET Preparation from Day 1!!!",
+          {
+            "mentions": 7,
+            "likes": 83,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Should I take a drop for NEET 2026? | @NEETspot",
+          {
+            "mentions": 7,
+            "likes": 4,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Parents की महनत और बच्चों का सपना | NEET Toppers की ज़िद की कहानी | MedTalks S2 | #neet",
+          {
+            "mentions": 7,
+            "likes": 14,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Should I take a drop for NEET 2026? | How to DECIDE?",
+          {
+            "mentions": 6,
+            "likes": 49,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Everything EXPLAINED about Admit Card for NEET 2025 - Must Watch (MIGHT BE FUNNY) till the end!!!",
+          {
+            "mentions": 6,
+            "likes": 24,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Recommended DAILY Time Table from NOW till NEET 2025!!!",
+          {
+            "mentions": 6,
+            "likes": 60,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Explained - 2 Level Classroom Test Series (in 280+ Centers) for NEET 2026 & NEET 2027 aspirants!!!",
+          {
+            "mentions": 6,
+            "likes": 2,
+            "videos_count": 1
+          }
+        ],
+        [
+          "On NEET exam Day: Why you MUST fill 2 BUBBLES if you filled 1st one WRONG?",
+          {
+            "mentions": 6,
+            "likes": 34,
+            "videos_count": 1
+          }
+        ],
+        [
+          "How to FINISH Syllabus Faster? Video for NEET 2026 Droppers!!!",
+          {
+            "mentions": 6,
+            "likes": 11,
+            "videos_count": 1
+          }
+        ],
+        [
+          "NEET 2026 Dropper Complete study plan along with coaching | How to study fast for NEET?",
+          {
+            "mentions": 6,
+            "likes": 0,
+            "videos_count": 1
+          }
+        ],
+        [
+          "NEET में 30 -50 Marks कैसे बढ़ाएं? | #neet2025 #neetpreparation",
+          {
+            "mentions": 6,
+            "likes": 4,
+            "videos_count": 1
+          }
+        ],
+        [
+          "7 minute Account of CRAZY 3 Hours (on NEET 2025 Exam Day) which left Rachit crying!!!",
+          {
+            "mentions": 5,
+            "likes": 26,
+            "videos_count": 1
+          }
+        ],
+        [
+          "NEET 2025 Chemistry was TOUGH? What should be YOUR STRATEGY for NEET 2026?",
+          {
+            "mentions": 5,
+            "likes": 14,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Wasting Time Watching NEET 2025 Cut-Off Prediction Videos & Telegram Chit Chat?",
+          {
+            "mentions": 5,
+            "likes": 34,
+            "videos_count": 1
+          }
+        ],
+        [
+          "NEET 2026 की तैयारी का पूरा Plan  | Mishra Sir Biology | #neet2025 #neet2026",
+          {
+            "mentions": 5,
+            "likes": 0,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Before CHALLENGE WINDOW Closes - CONFUSION on 5 Bio Questions in NEET 2025 Explained by Dr. Sharma",
+          {
+            "mentions": 4,
+            "likes": 15,
+            "videos_count": 1
+          }
+        ],
+        [
+          "इन PYQs से मिलेगी NEET के paper की असली Picture | How to use PYQs in NEET 2025?  #neet2025 #pyqs",
+          {
+            "mentions": 4,
+            "likes": 0,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Explained in 1 Min for NEET 2026 Aspirants - VITAL & ASCEND & Target Batch!!!",
+          {
+            "mentions": 4,
+            "likes": 9,
+            "videos_count": 1
+          }
+        ],
+        [
+          "How to Crack NEET 2026? | Best Timetable & Preparation Strategy Explained",
+          {
+            "mentions": 4,
+            "likes": 26,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Simple but tricky problem on Nernst equation | Nernst Equation Simplified | #neet2025 #neetchemistry",
+          {
+            "mentions": 4,
+            "likes": 13,
+            "videos_count": 1
+          }
+        ],
+        [
+          "LAUNCHING NOW - 1 year Extensive Classroom Test Series for 2027 covering Class 11th chapters!!!",
+          {
+            "mentions": 4,
+            "likes": 7,
+            "videos_count": 1
+          }
+        ],
+        [
+          "NEET 2025 की तैयारी का Last Month | क्या करें और क्या ना करें? | NEET Sisters | Medtalks Season 2",
+          {
+            "mentions": 4,
+            "likes": 2,
+            "videos_count": 1
+          }
+        ],
+        [
+          "NEET Physics Level 2 Karela book Giveaway Results | #neetphysics #neetprep",
+          {
+            "mentions": 4,
+            "likes": 0,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Unit #1 (NEET Bio) New NCERT DISCREPANCIES Confirmed by Dr. N.K.Sharma!!!",
+          {
+            "mentions": 3,
+            "likes": 0,
+            "videos_count": 1
+          }
+        ],
+        [
+          "5 Top Recommendations for FINAL 2 Weeks before NEET 2025!!!",
+          {
+            "mentions": 3,
+            "likes": 0,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Launching SCORE BOOSTER - The ULTIMATE Course for Round 2 Preparation for NEET 2026 & NEET 2027?",
+          {
+            "mentions": 3,
+            "likes": 14,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Physics in NEET 2026 will be JEE Advanced Level? | How to prepare for NEET physics?",
+          {
+            "mentions": 3,
+            "likes": 13,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Invigilator, OMR problem, Tough Paper....Hey Bhagwaan, NEET Exam ke din na jaane kya kya hoga!!!",
+          {
+            "mentions": 3,
+            "likes": 20,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Why Rachit's Father Pushed him to Attempt Test Series of NEETprep.com?",
+          {
+            "mentions": 3,
+            "likes": 1,
+            "videos_count": 1
+          }
+        ],
+        [
+          "6 Days Remaining in NEET 2025 - Recommendations to HANDLE Test Anxiety from Dr. N.K.Sharma!!!",
+          {
+            "mentions": 3,
+            "likes": 5,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Struggling to Sleep & Stay Healthy? Guidance Video for final 5 Days before NEET 2025!!!",
+          {
+            "mentions": 3,
+            "likes": 4,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Mindless MCQ Practice - BIG Mistake of a lot of NEET aspirants!!!",
+          {
+            "mentions": 3,
+            "likes": 2,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Explained: What is CUT-OFF? VARIED between 137 & 710 in NEET 2024 in Maulana Azad Medical College?",
+          {
+            "mentions": 3,
+            "likes": 2,
+            "videos_count": 1
+          }
+        ],
+        [
+          "3 Recommended Tips for EVERYTIME YOU WRITE MOCK TEST till NEET 2025!!!",
+          {
+            "mentions": 3,
+            "likes": 5,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Oscillations - TOP 5 NEET PYQs (from 2012 to 2024)!!!",
+          {
+            "mentions": 3,
+            "likes": 1,
+            "videos_count": 1
+          }
+        ],
+        [
+          "NEET 2026 aspirants की Physics problem का solution | Level 2 Physics Book free | #neet2026",
+          {
+            "mentions": 3,
+            "likes": 4,
+            "videos_count": 1
+          }
+        ],
+        [
+          "NEET 2026 Aspirants You can Get the Physics Karela Book | #neet2025 #neetphysics",
+          {
+            "mentions": 3,
+            "likes": 0,
+            "videos_count": 1
+          }
+        ],
+        [
+          "NEET 2026 में Chemistry  की तैयारी कैसे करनी है?  | Level of Exam & Preparation | #neet2025",
+          {
+            "mentions": 3,
+            "likes": 1,
+            "videos_count": 1
+          }
+        ],
+        [
+          "क्या 2 Drop के बाद भी Government Medical College मिल सकता है? | @Ayushi.Chaudhary  | Medtalks",
+          {
+            "mentions": 3,
+            "likes": 3,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Syllabus YOU MUST follow for NEET2025 - Our Strong Recommendation after JEE Mains Controversy!!",
+          {
+            "mentions": 2,
+            "likes": 2,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Don't worry - You are Ready for Cracking NEET 2025 tomorrow!!!",
+          {
+            "mentions": 2,
+            "likes": 0,
+            "videos_count": 1
+          }
+        ],
+        [
+          "How to IMPROVE your score SIGNIFICANTLY from now till NEET 2025? Live Session with Kapil sir!!!",
+          {
+            "mentions": 2,
+            "likes": 1,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Inspired by Jeetu Bhaiya - 21 Day Hack (Challenge) STARTING Republic Day for NEET 2025 Aspirants!!!",
+          {
+            "mentions": 2,
+            "likes": 7,
+            "videos_count": 1
+          }
+        ],
+        [
+          "NEET 2025 - Fastest Answer key | Live Paper Solving & Expected Cut-Off #neet2025",
+          {
+            "mentions": 2,
+            "likes": 3,
+            "videos_count": 1
+          }
+        ],
+        [
+          "MYTH Busted - Open Category ≠ Reservation for Gen Candidates (Explained through AIIMS Delhi Example)",
+          {
+            "mentions": 2,
+            "likes": 3,
+            "videos_count": 1
+          }
+        ],
+        [
+          "How to GET READY for a (possible) TOUGH NEET 2026 & NEET 2027?",
+          {
+            "mentions": 2,
+            "likes": 11,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Board Exams Over - DOs & DON'Ts for Final 40 DAYS before NEET 2025!!!",
+          {
+            "mentions": 2,
+            "likes": 4,
+            "videos_count": 1
+          }
+        ],
+        [
+          "How many 30 min Concentrated Study (CS) sessions can you do in a DAY?",
+          {
+            "mentions": 2,
+            "likes": 9,
+            "videos_count": 1
+          }
+        ],
+        [
+          "NEETprep Talent Scholarship (NTS) Exam for NEET 2027 - All Details INSIDE!!!",
+          {
+            "mentions": 2,
+            "likes": 12,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Target AIIMS Delhi in NEET 2026? 21 Day Hack STARTS Today at 09:00 p.m. on ZOOM!!!",
+          {
+            "mentions": 2,
+            "likes": 1,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Mock Test Sunday (27 April) For NEET 2025 Aspirants - Get READY - JOIN Kapil Sir Live At 1:45 pm!",
+          {
+            "mentions": 2,
+            "likes": 0,
+            "videos_count": 1
+          }
+        ],
+        [
+          "NEET Chemistry: Concentration Cells - Problem Solving & Explanation (Shashi Sir) | #neet2025",
+          {
+            "mentions": 2,
+            "likes": 7,
+            "videos_count": 1
+          }
+        ],
+        [
+          "NEET 2025 se seekhkar ab NEET 2026 ki preparation kese karni hai? #neet2026",
+          {
+            "mentions": 2,
+            "likes": 0,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Parents during the NEET preparation of their child | #neet2025  #finalday",
+          {
+            "mentions": 2,
+            "likes": 3,
+            "videos_count": 1
+          }
+        ],
+        [
+          "क्या NEET 2025 का result postpone होगा? | @NEETspot",
+          {
+            "mentions": 2,
+            "likes": 0,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Section B REMOVED from NEET 2025 by NTA - What CHANGES we are making?",
+          {
+            "mentions": 1,
+            "likes": 1,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Methodical Approach to Target 700+ in Remaining 70 Days to NEET 2025!!!",
+          {
+            "mentions": 1,
+            "likes": 4,
+            "videos_count": 1
+          }
+        ],
+        [
+          "The Topper Protocol - Recommendations from Shubhan Sengupta (Rank 1 NEET 2024) for NEET 2025",
+          {
+            "mentions": 1,
+            "likes": 4,
+            "videos_count": 1
+          }
+        ],
+        [
+          "NEET 2025 - Chapter & Topic Wise Analysis of Pre-Covid NEET/AIPMT Tests (180Q - 180 min)",
+          {
+            "mentions": 1,
+            "likes": 8,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Are you READY to ATTEMPT NEET 2025 Every Week?",
+          {
+            "mentions": 1,
+            "likes": 2,
+            "videos_count": 1
+          }
+        ],
+        [
+          "90 Days Remaining in NEET 2025 - Have you Frozen your Testing Time Table?",
+          {
+            "mentions": 1,
+            "likes": 0,
+            "videos_count": 1
+          }
+        ],
+        [
+          "5 Readiness Parameters for NEET 2025 - 9 Weeks & 9 Tests to GET READY for 10th Test on 4th May!!!",
+          {
+            "mentions": 1,
+            "likes": 0,
+            "videos_count": 1
+          }
+        ],
+        [
+          "TESTING for NEET 2026 Starts TOMORROW (8th June), 1:30 p.m. for ENROLLED students on NEETprep.com",
+          {
+            "mentions": 1,
+            "likes": 1,
+            "videos_count": 1
+          }
+        ],
+        [
+          "AIIMS Delhi POSSIBLE in NEET 2026 if you START NOW? 100% Yes. 21 Day Hack starting for NEET 2026!!",
+          {
+            "mentions": 1,
+            "likes": 0,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Good News: JEE Mains PYQs Uploaded in Every Physics Chapter in Target Batch for NEET aspirants!!!",
+          {
+            "mentions": 1,
+            "likes": 0,
+            "videos_count": 1
+          }
+        ],
+        [
+          "जागो Today - IF you are Targeting AIIMS Dellhi in NEET 2026 - Featuring Dr. Aryan Raj Singh!!!",
+          {
+            "mentions": 1,
+            "likes": 0,
+            "videos_count": 1
+          }
+        ],
+        [
+          "EXPLAINED  - ESIC Quota in MBBS Seats for NEET Aspirants!!!",
+          {
+            "mentions": 1,
+            "likes": 0,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Mock Test Sunday (13 April) For NEET 2025 Aspirants - Get READY - JOIN Kapil Sir Live At 1:45 pm!",
+          {
+            "mentions": 1,
+            "likes": 0,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Understanding d and f Block Elements for NEET 2025 | Chemistry for NEET with Shashi Sir",
+          {
+            "mentions": 1,
+            "likes": 0,
+            "videos_count": 1
+          }
+        ],
+        [
+          "NEET 2025 Exam Day - Live with Kapil sir at 10:30 a.m.",
+          {
+            "mentions": 1,
+            "likes": 0,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Chemical properties of d block elements | NEET Chemistry by Shashi Sir | #neet2025 #chemistry",
+          {
+            "mentions": 1,
+            "likes": 0,
+            "videos_count": 1
+          }
+        ],
+        [
+          "AIIMS से नीचे कुछ नहीं चाहिए पर!  @RASHMIAIIMSDELHI1722 को ऐसे मिला AIIMS Delhi #aiimsdelhi",
+          {
+            "mentions": 1,
+            "likes": 0,
+            "videos_count": 1
+          }
+        ],
+        [
+          "How to get 360 in biology in NEET 2026 and NEET 2027? | Masterclass in Biology",
+          {
+            "mentions": 1,
+            "likes": 0,
+            "videos_count": 1
+          }
+        ],
+        [
+          "NEET 2025  के लिए तैयार हो ना? #aiimsdelhimotivation #aiimsdelhi",
+          {
+            "mentions": 1,
+            "likes": 2,
+            "videos_count": 1
+          }
+        ],
+        [
+          "बेटे का NEET  Crack करवा दिया | NEET की जंग में पापा ने बना डाला बेटे को Topper | #neet2025 #podcast",
+          {
+            "mentions": 1,
+            "likes": 2,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Best biology questions for NEET 2026  Giveaway",
+          {
+            "mentions": 1,
+            "likes": 0,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Doctor बनने में आखिर कितने साल लगते हैं? | @RishabhJain2970 ने बताया |  #aiimsdelhi #doctors",
+          {
+            "mentions": 1,
+            "likes": 0,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Is baar NEET crack karke rahunga #neet2025 #neetmotivation",
+          {
+            "mentions": 1,
+            "likes": 0,
+            "videos_count": 1
+          }
+        ],
+        [
+          "NEET Physics problem solved | #neetphysics #neet2025",
+          {
+            "mentions": 1,
+            "likes": 0,
+            "videos_count": 1
+          }
+        ],
+        [
+          "How to solve NEET 2025 Question Paper? Tips by Aryan Raj Singh #neet2025 #aiimsdelhi",
+          {
+            "mentions": 1,
+            "likes": 0,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Can I prepare for NEET by Online coaching and NEETprep? #onlineneetcoaching #neet",
+          {
+            "mentions": 1,
+            "likes": 1,
+            "videos_count": 1
+          }
+        ],
+        [
+          "NEET में 3 Attempt फिर ऐसे किया NEET Crack | Med Talks Podcast |@NEETspot",
+          {
+            "mentions": 1,
+            "likes": 2,
+            "videos_count": 1
+          }
+        ],
+        [
+          "CBSE Board Result 2025 | Big Announcement for NEET 2026 Aspirants #neet2026 #cbseresults",
+          {
+            "mentions": 1,
+            "likes": 0,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Kya Aap NEET 2025 jese exam k liye ready the? #neet2025",
+          {
+            "mentions": 1,
+            "likes": 0,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Student Reaction on NEET 2025 Exam  #neet2025 #studentreactions",
+          {
+            "mentions": 1,
+            "likes": 0,
+            "videos_count": 1
+          }
+        ],
+        [
+          "NEET Preparation में ये Mistakes करीं तो MBBS में selection भूल जाओ | @gunjannagpalvmmc #neet",
+          {
+            "mentions": 1,
+            "likes": 2,
+            "videos_count": 1
+          }
+        ],
+        [
+          "क्या 12th Boards के साथ NEET Crack कर सकते हैं? | #neet2025 #class12",
+          {
+            "mentions": 1,
+            "likes": 2,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Hume apko NEET ready karna hai jhoote wade nahi!! #neet2025 #physics",
+          {
+            "mentions": 1,
+            "likes": 1,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Biggest Motivation माँ का Sacrifice और support in NEET",
+          {
+            "mentions": 1,
+            "likes": 0,
+            "videos_count": 1
+          }
+        ],
+        [
+          "Boards के बाद NEET के लिए Motivation नहीं बचा? #neet2025 #neetmotivation",
+          {
+            "mentions": 1,
+            "likes": 0,
+            "videos_count": 1
+          }
+        ],
+        [
+          "How to Use MIB- NEET - Masterclass In Biology Telegram Bot for Audio Explanations? #neet2025",
+          {
+            "mentions": 1,
+            "likes": 0,
+            "videos_count": 1
+          }
+        ]
+      ],
+      "sentiment_breakdown": {
+        "brand_mention": 582,
+        "educational": 25,
+        "positive": 6,
+        "negative": 1
+      },
+      "sample_comments": [
+        {
+          "comment_id": "UgxRsZImYVwfDatocpR4AaABAg",
+          "text_preview": "My advise to all the juniors who r going to give 2026 neet Plz dont study from bhaiyya and didi ...s...",
+          "full_text": "My advise to all the juniors who r going to give 2026 neet Plz dont study from bhaiyya and didi ...study from actual teacher ...❤",
+          "likes": 325,
+          "author": "@pikachu7844",
+          "variations_found": [
+            "neet",
+            "NEET"
+          ],
+          "sentiment": "brand_mention",
+          "channel": "NEETprep Course: NCERT Based NEET Preparation",
+          "video_id": "h14veFb8604"
+        },
+        {
+          "comment_id": "Ugx_3RODOXIVvni6YI94AaABAg",
+          "text_preview": "What went wrong in my prepation for neet ? 1. procrastination 2. Only doing lectures 3. always think...",
+          "full_text": "What went wrong in my prepation for neet ? 1. procrastination 2. Only doing lectures 3. always thinking that aaj maan nhi karr rha kaal kar lunga 4. non serious about my goal 5. not revising the notes properly.",
+          "likes": 104,
+          "author": "@soumyadippan531",
+          "variations_found": [
+            "neet",
+            "NEET"
+          ],
+          "sentiment": "brand_mention",
+          "channel": "NEETprep Course: NCERT Based NEET Preparation",
+          "video_id": "mu-rIlPeHSI"
+        },
+        {
+          "comment_id": "UgztVuoyM236JcshFgZ4AaABAg",
+          "text_preview": "Please guide sir for neet 2026 ...ab toh drop lene me bhi dar lag rahi hai 😢",
+          "full_text": "Please guide sir for neet 2026 ...ab toh drop lene me bhi dar lag rahi hai 😢",
+          "likes": 84,
+          "author": "@Anikasahaniafroj",
+          "variations_found": [
+            "neet",
+            "NEET"
+          ],
+          "sentiment": "brand_mention",
+          "channel": "NEETprep Course: NCERT Based NEET Preparation",
+          "video_id": "2Be5l5oK0B4"
+        },
+        {
+          "comment_id": "UgyySq1OFyjlcx9S93F4AaABAg",
+          "text_preview": "Neet 2027 attendance here",
+          "full_text": "Neet 2027 attendance here",
+          "likes": 84,
+          "author": "@AbdulHabib-o1d",
+          "variations_found": [
+            "neet",
+            "NEET"
+          ],
+          "sentiment": "brand_mention",
+          "channel": "NEETprep Course: NCERT Based NEET Preparation",
+          "video_id": "aSqmX4bYCms"
+        },
+        {
+          "comment_id": "UgwQ0uBu7n4nNVb696V4AaABAg",
+          "text_preview": "Sir iss NEET Industry ke Hawabazi mai se aap Alag the ❤aur pura NeetPrep team wins..you always prepa...",
+          "full_text": "Sir iss NEET Industry ke Hawabazi mai se aap Alag the ❤aur pura NeetPrep team wins..you always prepared us for tough to moderate paper...\"Selection MCQ practice aur testing se hota hai\"🙂",
+          "likes": 73,
+          "author": "@Dr.Rudraksh_AIIMS",
+          "variations_found": [
+            "neet",
+            "NEET"
+          ],
+          "sentiment": "brand_mention",
+          "channel": "NEETprep Course: NCERT Based NEET Preparation",
+          "video_id": "2Be5l5oK0B4"
+        },
+        {
+          "comment_id": "Ugw9z5zowKCh7xQGukB4AaABAg",
+          "text_preview": "This is for neet 2026 🙃🙃",
+          "full_text": "This is for neet 2026 🙃🙃",
+          "likes": 58,
+          "author": "@Cassanio_Family",
+          "variations_found": [
+            "neet",
+            "NEET"
+          ],
+          "sentiment": "brand_mention",
+          "channel": "NEETprep Course: NCERT Based NEET Preparation",
+          "video_id": "Php0kVlP834"
+        },
+        {
+          "comment_id": "UgzxYiHky3X7ogXLEg14AaABAg",
+          "text_preview": "the worst hing is that correect ans in websites is only visible tp those who have access to neet pre...",
+          "full_text": "the worst hing is that correect ans in websites is only visible tp those who have access to neet prep courses",
+          "likes": 57,
+          "author": "@RohitPa-nw6vl",
+          "variations_found": [
+            "neet",
+            "NEET"
+          ],
+          "sentiment": "brand_mention",
+          "channel": "NEETprep Course: NCERT Based NEET Preparation",
+          "video_id": "OjBU80tHnBU"
+        },
+        {
+          "comment_id": "UgyzO5Z4DPSmHbHgtB94AaABAg",
+          "text_preview": "950 ka ek test itne me toh bade bade institute ka 2 test mil jata 😅hai tabhi socho log neetprep ko j...",
+          "full_text": "950 ka ek test itne me toh bade bade institute ka 2 test mil jata 😅hai tabhi socho log neetprep ko jante kyu nhi 😂hai sir its my humble request to reduce your price its too much❤",
+          "likes": 52,
+          "author": "@studychannel4008",
+          "variations_found": [
+            "neet",
+            "NEET"
+          ],
+          "sentiment": "brand_mention",
+          "channel": "NEETprep Course: NCERT Based NEET Preparation",
+          "video_id": "4Jnh4F_y27s"
+        },
+        {
+          "comment_id": "UgwkPKKmkfPewxmrbCh4AaABAg",
+          "text_preview": "Sir mene 12th k baad start ki neet ki prep yeh mera 3rd drop tha online pd kr 400 below arhe hn kyak...",
+          "full_text": "Sir mene 12th k baad start ki neet ki prep yeh mera 3rd drop tha online pd kr 400 below arhe hn kyakru quite kru 😢 but dil nhianta aur kya kru mere lye koi option nhi hai 😢😢😢",
+          "likes": 41,
+          "author": "@Medico-i6w",
+          "variations_found": [
+            "neet",
+            "NEET"
+          ],
+          "sentiment": "brand_mention",
+          "channel": "NEETprep Course: NCERT Based NEET Preparation",
+          "video_id": "mu-rIlPeHSI"
+        },
+        {
+          "comment_id": "UgyP_ay68XEP9bOVUxt4AaABAg",
+          "text_preview": "One video for 12th passed student in this year. Now preparing for neet 2026 in 1 year please sir mak...",
+          "full_text": "One video for 12th passed student in this year. Now preparing for neet 2026 in 1 year please sir make one video",
+          "likes": 41,
+          "author": "@deepaksahu1734",
+          "variations_found": [
+            "neet",
+            "NEET"
+          ],
+          "sentiment": "brand_mention",
+          "channel": "NEETprep Course: NCERT Based NEET Preparation",
+          "video_id": "WWuECrl4jMI"
+        }
+      ]
+    }
+  },
+  "insights": {
+    "most_popular_keywords": [
+      [
+        "neet",
+        614
+      ],
+      [
+        "neetprep",
+        256
+      ],
+      [
+        "explain",
+        67
+      ],
+      [
+        "great",
+        41
+      ],
+      [
+        "explanation",
+        27
+      ],
+      [
+        "physics_wallah",
+        10
+      ],
+      [
+        "boring",
+        7
+      ],
+      [
+        "loved_it",
+        2
+      ]
+    ],
+    "channel_specializations": {
+      "NEET 2025 in 11 Days - Bored & Don't Feel like Studying? SATURATION? बहुत हो गयी पढाई!!!": [
+        {
+          "keyword": "loved_it",
+          "mentions": 1,
+          "dominance_percentage": 50.0
+        }
+      ],
+      "Unit #1 (NEET Bio) New NCERT DISCREPANCIES Confirmed by Dr. N.K.Sharma!!!": [
+        {
+          "keyword": "great",
+          "mentions": 3,
+          "dominance_percentage": 7.317073170731707
+        }
+      ],
+      "Before CHALLENGE WINDOW Closes - CONFUSION on 5 Bio Questions in NEET 2025 Explained by Dr. Sharma": [
+        {
+          "keyword": "boring",
+          "mentions": 3,
+          "dominance_percentage": 42.857142857142854
+        },
+        {
+          "keyword": "explanation",
+          "mentions": 10,
+          "dominance_percentage": 37.03703703703704
+        },
+        {
+          "keyword": "explain",
+          "mentions": 10,
+          "dominance_percentage": 14.925373134328357
+        }
+      ],
+      "NEET 2025 was TOUGH - Rachit Expecting 689 (Crying after Exam)! Score DOES NOT Matter - Rank Matters": [
+        {
+          "keyword": "physics_wallah",
+          "mentions": 1,
+          "dominance_percentage": 10.0
+        }
+      ],
+      "8 Month Time Table for NEET 2026 dropper | Complete Syllabus by 31st Jan  #neetdroppers #neetprep": [
+        {
+          "keyword": "neetprep",
+          "mentions": 14,
+          "dominance_percentage": 5.46875
+        }
+      ],
+      "Decided to Prepare for NEET 2026? How to PLAN your studies on Daily & Weekly basis?": [
+        {
+          "keyword": "neet",
+          "mentions": 45,
+          "dominance_percentage": 7.32899022801303
+        }
+      ]
+    },
+    "sentiment_patterns": {
+      "loved_it": {
+        "dominant_sentiment": "positive",
+        "sentiment_percentages": {
+          "positive": 100.0
+        }
+      },
+      "great": {
+        "dominant_sentiment": "positive",
+        "sentiment_percentages": {
+          "positive": 100.0
+        }
+      },
+      "boring": {
+        "dominant_sentiment": "negative",
+        "sentiment_percentages": {
+          "negative": 100.0
+        }
+      },
+      "explanation": {
+        "dominant_sentiment": "educational",
+        "sentiment_percentages": {
+          "educational": 100.0
+        }
+      },
+      "explain": {
+        "dominant_sentiment": "educational",
+        "sentiment_percentages": {
+          "educational": 98.50746268656717,
+          "positive": 1.4925373134328357
+        }
+      },
+      "physics_wallah": {
+        "dominant_sentiment": "brand_mention",
+        "sentiment_percentages": {
+          "brand_mention": 100.0
+        }
+      },
+      "neetprep": {
+        "dominant_sentiment": "brand_mention",
+        "sentiment_percentages": {
+          "brand_mention": 97.265625,
+          "educational": 1.5625,
+          "positive": 1.171875
+        }
+      },
+      "neet": {
+        "dominant_sentiment": "brand_mention",
+        "sentiment_percentages": {
+          "brand_mention": 94.78827361563518,
+          "educational": 4.071661237785016,
+          "positive": 0.9771986970684038,
+          "negative": 0.16286644951140067
+        }
+      }
+    },
+    "engagement_analysis": {
+      "loved_it": {
+        "average_likes_per_mention": 0.0,
+        "total_engagement": 0
+      },
+      "great": {
+        "average_likes_per_mention": 2.5121951219512195,
+        "total_engagement": 103
+      },
+      "boring": {
+        "average_likes_per_mention": 1.4285714285714286,
+        "total_engagement": 10
+      },
+      "explanation": {
+        "average_likes_per_mention": 7.222222222222222,
+        "total_engagement": 195
+      },
+      "explain": {
+        "average_likes_per_mention": 5.417910447761194,
+        "total_engagement": 363
+      },
+      "physics_wallah": {
+        "average_likes_per_mention": 1.0,
+        "total_engagement": 10
+      },
+      "neetprep": {
+        "average_likes_per_mention": 3.3828125,
+        "total_engagement": 866
+      },
+      "neet": {
+        "average_likes_per_mention": 4.412052117263844,
+        "total_engagement": 2709
+      }
+    },
+    "keyword_correlations": []
+  },
+  "recommendations": [
+    "Focus on 'neet' keyword - it has 614 mentions across channels",
+    "Leverage positive sentiment around 'loved_it' for marketing",
+    "Leverage positive sentiment around 'great' for marketing",
+    "Address negative sentiment around 'boring' keyword"
+  ]
+}

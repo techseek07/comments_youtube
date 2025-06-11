@@ -1,0 +1,706 @@
+{
+  "quota_used": 6214,
+  "last_reset": "2025-06-09",
+  "operation_log": [
+    {
+      "timestamp": "2025-06-09T18:40:16.211665",
+      "operation": "comment_threads",
+      "cost": 1,
+      "description": "BALANCED - Video 7eram74Rr_w page 1",
+      "total_used": 5521
+    },
+    {
+      "timestamp": "2025-06-09T18:40:16.719046",
+      "operation": "comment_threads",
+      "cost": 1,
+      "description": "BALANCED - Video 7eram74Rr_w page 3",
+      "total_used": 5522
+    },
+    {
+      "timestamp": "2025-06-09T18:40:17.265485",
+      "operation": "comment_threads",
+      "cost": 1,
+      "description": "BALANCED - Video 4EvCk51bK98 page 1",
+      "total_used": 5523
+    },
+    {
+      "timestamp": "2025-06-09T18:40:17.941532",
+      "operation": "comment_threads",
+      "cost": 1,
+      "description": "BALANCED - Video 4EvCk51bK98 page 3",
+      "total_used": 5524
+    },
+    {
+      "timestamp": "2025-06-09T18:40:18.492105",
+      "operation": "comment_threads",
+      "cost": 1,
+      "description": "BALANCED - Video pf0CkHbGsjk page 1",
+      "total_used": 5525
+    },
+    {
+      "timestamp": "2025-06-09T18:40:19.266670",
+      "operation": "comment_threads",
+      "cost": 1,
+      "description": "BALANCED - Video pf0CkHbGsjk page 3",
+      "total_used": 5526
+    },
+    {
+      "timestamp": "2025-06-09T18:40:20.806483",
+      "operation": "comment_threads",
+      "cost": 1,
+      "description": "BALANCED - Video NOdBhgu-Y1I page 1",
+      "total_used": 5527
+    },
+    {
+      "timestamp": "2025-06-09T18:40:21.589644",
+      "operation": "comment_threads",
+      "cost": 1,
+      "description": "BALANCED - Video NOdBhgu-Y1I page 3",
+      "total_used": 5528
+    },
+    {
+      "timestamp": "2025-06-09T18:40:22.292066",
+      "operation": "comment_threads",
+      "cost": 1,
+      "description": "BALANCED - Video NOdBhgu-Y1I page 5",
+      "total_used": 5529
+    },
+    {
+      "timestamp": "2025-06-09T18:40:23.228687",
+      "operation": "comment_threads",
+      "cost": 1,
+      "description": "BALANCED - Video bm0PTZ-m-ME page 1",
+      "total_used": 5530
+    },
+    {
+      "timestamp": "2025-06-09T18:40:24.016792",
+      "operation": "comment_threads",
+      "cost": 1,
+      "description": "BALANCED - Video ESI7WGII7HE page 1",
+      "total_used": 5531
+    },
+    {
+      "timestamp": "2025-06-09T18:40:25.010465",
+      "operation": "comment_threads",
+      "cost": 1,
+      "description": "BALANCED - Video f7ijVMgu6F8 page 1",
+      "total_used": 5532
+    },
+    {
+      "timestamp": "2025-06-09T18:40:25.702501",
+      "operation": "comment_threads",
+      "cost": 1,
+      "description": "BALANCED - Video Cuhv7fmC7vQ page 1",
+      "total_used": 5533
+    },
+    {
+      "timestamp": "2025-06-09T18:40:26.396508",
+      "operation": "comment_threads",
+      "cost": 1,
+      "description": "BALANCED - Video UHJc_t55vZk page 1",
+      "total_used": 5534
+    },
+    {
+      "timestamp": "2025-06-09T18:40:26.863655",
+      "operation": "comment_threads",
+      "cost": 1,
+      "description": "BALANCED - Video 49BCVXKuECg page 1",
+      "total_used": 5535
+    },
+    {
+      "timestamp": "2025-06-09T18:40:27.574777",
+      "operation": "comment_threads",
+      "cost": 1,
+      "description": "BALANCED - Video 6R29cj3hchk page 1",
+      "total_used": 5536
+    },
+    {
+      "timestamp": "2025-06-09T18:40:28.409579",
+      "operation": "comment_threads",
+      "cost": 1,
+      "description": "BALANCED - Video cZtwNV828tg page 1",
+      "total_used": 5537
+    },
+    {
+      "timestamp": "2025-06-09T18:40:29.230213",
+      "operation": "comment_threads",
+      "cost": 1,
+      "description": "BALANCED - Video Kl-G2wpC3UE page 1",
+      "total_used": 5538
+    },
+    {
+      "timestamp": "2025-06-09T18:40:30.031681",
+      "operation": "comment_threads",
+      "cost": 1,
+      "description": "BALANCED - Video a0ro3WWtCnw page 1",
+      "total_used": 5539
+    },
+    {
+      "timestamp": "2025-06-09T18:40:30.431568",
+      "operation": "comment_threads",
+      "cost": 1,
+      "description": "BALANCED - Video WuDQUkLEQmQ page 1",
+      "total_used": 5540
+    },
+    {
+      "timestamp": "2025-06-09T18:40:31.295929",
+      "operation": "comment_threads",
+      "cost": 1,
+      "description": "BALANCED - Video j2QBsICcAVo page 1",
+      "total_used": 5541
+    },
+    {
+      "timestamp": "2025-06-09T18:40:32.237811",
+      "operation": "comment_threads",
+      "cost": 1,
+      "description": "BALANCED - Video IwGZy7SaaIE page 1",
+      "total_used": 5542
+    },
+    {
+      "timestamp": "2025-06-09T18:40:32.848944",
+      "operation": "comment_threads",
+      "cost": 1,
+      "description": "BALANCED - Video g04vFeafcmI page 1",
+      "total_used": 5543
+    },
+    {
+      "timestamp": "2025-06-09T18:40:33.606754",
+      "operation": "comment_threads",
+      "cost": 1,
+      "description": "BALANCED - Video izY6Z00vscE page 1",
+      "total_used": 5544
+    },
+    {
+      "timestamp": "2025-06-09T18:40:34.091765",
+      "operation": "comment_threads",
+      "cost": 1,
+      "description": "BALANCED - Video VEYMg6qxnXg page 1",
+      "total_used": 5545
+    },
+    {
+      "timestamp": "2025-06-09T18:40:34.486542",
+      "operation": "comment_threads",
+      "cost": 1,
+      "description": "BALANCED - Video qpJ0gvg5Gww page 1",
+      "total_used": 5546
+    },
+    {
+      "timestamp": "2025-06-09T18:40:35.190961",
+      "operation": "comment_threads",
+      "cost": 1,
+      "description": "BALANCED - Video 7dm7pm7m2lA page 1",
+      "total_used": 5547
+    },
+    {
+      "timestamp": "2025-06-09T18:40:35.991512",
+      "operation": "comment_threads",
+      "cost": 1,
+      "description": "BALANCED - Video grTHiKX4XaY page 1",
+      "total_used": 5548
+    },
+    {
+      "timestamp": "2025-06-09T18:40:36.686599",
+      "operation": "comment_threads",
+      "cost": 1,
+      "description": "BALANCED - Video 5z6OuB5aXAc page 1",
+      "total_used": 5549
+    },
+    {
+      "timestamp": "2025-06-09T18:40:37.315911",
+      "operation": "comment_threads",
+      "cost": 1,
+      "description": "BALANCED - Video po7oG3G7CuM page 1",
+      "total_used": 5550
+    },
+    {
+      "timestamp": "2025-06-09T18:40:37.710819",
+      "operation": "comment_threads",
+      "cost": 1,
+      "description": "BALANCED - Video 1wo5Exva6ns page 1",
+      "total_used": 5551
+    },
+    {
+      "timestamp": "2025-06-09T18:40:38.474683",
+      "operation": "comment_threads",
+      "cost": 1,
+      "description": "BALANCED - Video NLpNnZruTdc page 1",
+      "total_used": 5552
+    },
+    {
+      "timestamp": "2025-06-09T18:40:38.928337",
+      "operation": "comment_threads",
+      "cost": 1,
+      "description": "BALANCED - Video R1jnaCR97Hs page 1",
+      "total_used": 5553
+    },
+    {
+      "timestamp": "2025-06-09T18:40:39.757504",
+      "operation": "comment_threads",
+      "cost": 1,
+      "description": "BALANCED - Video k0actk9kkcQ page 1",
+      "total_used": 5554
+    },
+    {
+      "timestamp": "2025-06-09T18:40:40.138618",
+      "operation": "comment_threads",
+      "cost": 1,
+      "description": "BALANCED - Video KD_-WYK-oqo page 1",
+      "total_used": 5555
+    },
+    {
+      "timestamp": "2025-06-09T18:40:40.516000",
+      "operation": "comment_threads",
+      "cost": 1,
+      "description": "BALANCED - Video I0C7Y7hwYyA page 1",
+      "total_used": 5556
+    },
+    {
+      "timestamp": "2025-06-09T18:40:41.569583",
+      "operation": "comment_threads",
+      "cost": 1,
+      "description": "BALANCED - Video rsfitX_-jWE page 1",
+      "total_used": 5557
+    },
+    {
+      "timestamp": "2025-06-09T18:40:42.078481",
+      "operation": "comment_threads",
+      "cost": 1,
+      "description": "BALANCED - Video wGDsFRQiuNg page 1",
+      "total_used": 5558
+    },
+    {
+      "timestamp": "2025-06-09T18:40:42.698204",
+      "operation": "comment_threads",
+      "cost": 1,
+      "description": "BALANCED - Video DNHrongJsxM page 1",
+      "total_used": 5559
+    },
+    {
+      "timestamp": "2025-06-09T18:40:46.562007",
+      "operation": "comment_threads",
+      "cost": 1,
+      "description": "BALANCED - Video HiXeFnxzqbk page 1",
+      "total_used": 5560
+    },
+    {
+      "timestamp": "2025-06-09T18:40:47.292576",
+      "operation": "comment_threads",
+      "cost": 1,
+      "description": "BALANCED - Video ortE0KBYSTI page 1",
+      "total_used": 5561
+    },
+    {
+      "timestamp": "2025-06-09T18:40:48.130930",
+      "operation": "comment_threads",
+      "cost": 1,
+      "description": "BALANCED - Video 304UX2Lp6w0 page 1",
+      "total_used": 5562
+    },
+    {
+      "timestamp": "2025-06-09T18:40:50.599131",
+      "operation": "comment_threads",
+      "cost": 1,
+      "description": "BALANCED - Video 304UX2Lp6w0 page 3",
+      "total_used": 5563
+    },
+    {
+      "timestamp": "2025-06-09T18:40:51.336946",
+      "operation": "comment_threads",
+      "cost": 1,
+      "description": "BALANCED - Video HaTLvyrrdR4 page 1",
+      "total_used": 5564
+    },
+    {
+      "timestamp": "2025-06-09T18:40:52.252368",
+      "operation": "comment_threads",
+      "cost": 1,
+      "description": "BALANCED - Video q5L05HF34g8 page 1",
+      "total_used": 5565
+    },
+    {
+      "timestamp": "2025-06-09T18:40:53.014732",
+      "operation": "comment_threads",
+      "cost": 1,
+      "description": "BALANCED - Video q5L05HF34g8 page 3",
+      "total_used": 5566
+    },
+    {
+      "timestamp": "2025-06-09T18:40:53.850508",
+      "operation": "comment_threads",
+      "cost": 1,
+      "description": "BALANCED - Video wB-NDUyxLco page 1",
+      "total_used": 5567
+    },
+    {
+      "timestamp": "2025-06-09T18:40:54.364518",
+      "operation": "comment_threads",
+      "cost": 1,
+      "description": "BALANCED - Video wB-NDUyxLco page 3",
+      "total_used": 5568
+    },
+    {
+      "timestamp": "2025-06-09T18:40:55.224228",
+      "operation": "comment_threads",
+      "cost": 1,
+      "description": "BALANCED - Video cNCUYoPHXY4 page 1",
+      "total_used": 5569
+    },
+    {
+      "timestamp": "2025-06-09T18:40:56.189073",
+      "operation": "comment_threads",
+      "cost": 1,
+      "description": "BALANCED - Video 3OBwM7TT5-4 page 1",
+      "total_used": 5570
+    },
+    {
+      "timestamp": "2025-06-09T18:40:56.787390",
+      "operation": "comment_threads",
+      "cost": 1,
+      "description": "BALANCED - Video 3OBwM7TT5-4 page 3",
+      "total_used": 5571
+    },
+    {
+      "timestamp": "2025-06-09T18:40:57.477677",
+      "operation": "comment_threads",
+      "cost": 1,
+      "description": "BALANCED - Video lOHy3R92ecg page 1",
+      "total_used": 5572
+    },
+    {
+      "timestamp": "2025-06-09T18:40:58.339026",
+      "operation": "comment_threads",
+      "cost": 1,
+      "description": "BALANCED - Video lOHy3R92ecg page 3",
+      "total_used": 5573
+    },
+    {
+      "timestamp": "2025-06-09T18:40:59.137560",
+      "operation": "comment_threads",
+      "cost": 1,
+      "description": "BALANCED - Video zfgRTR1clLE page 1",
+      "total_used": 5574
+    },
+    {
+      "timestamp": "2025-06-09T18:40:59.831447",
+      "operation": "comment_threads",
+      "cost": 1,
+      "description": "BALANCED - Video zfgRTR1clLE page 3",
+      "total_used": 5575
+    },
+    {
+      "timestamp": "2025-06-09T18:41:02.159719",
+      "operation": "comment_threads",
+      "cost": 1,
+      "description": "BALANCED - Video nypnxWD5O0A page 1",
+      "total_used": 5576
+    },
+    {
+      "timestamp": "2025-06-09T18:41:03.445818",
+      "operation": "comment_threads",
+      "cost": 1,
+      "description": "BALANCED - Video oIKBZ0CHuFI page 1",
+      "total_used": 5577
+    },
+    {
+      "timestamp": "2025-06-09T18:41:04.421749",
+      "operation": "comment_threads",
+      "cost": 1,
+      "description": "BALANCED - Video sTIudGLRNhg page 1",
+      "total_used": 5578
+    },
+    {
+      "timestamp": "2025-06-09T18:41:07.207426",
+      "operation": "comment_threads",
+      "cost": 1,
+      "description": "BALANCED - Video IX264h8FSQU page 1",
+      "total_used": 5579
+    },
+    {
+      "timestamp": "2025-06-09T18:41:08.109999",
+      "operation": "comment_threads",
+      "cost": 1,
+      "description": "BALANCED - Video 5IDhG1BToLY page 1",
+      "total_used": 5580
+    },
+    {
+      "timestamp": "2025-06-09T18:41:08.831134",
+      "operation": "comment_threads",
+      "cost": 1,
+      "description": "BALANCED - Video hLeSzB0qrqI page 1",
+      "total_used": 5581
+    },
+    {
+      "timestamp": "2025-06-09T18:41:09.667478",
+      "operation": "comment_threads",
+      "cost": 1,
+      "description": "BALANCED - Video xt-D1zNYtsY page 1",
+      "total_used": 5582
+    },
+    {
+      "timestamp": "2025-06-09T18:41:10.466492",
+      "operation": "comment_threads",
+      "cost": 1,
+      "description": "BALANCED - Video gAw8okP44bQ page 1",
+      "total_used": 5583
+    },
+    {
+      "timestamp": "2025-06-09T18:41:11.428914",
+      "operation": "comment_threads",
+      "cost": 1,
+      "description": "BALANCED - Video Hk1j7hYG2uQ page 1",
+      "total_used": 5584
+    },
+    {
+      "timestamp": "2025-06-09T18:41:13.857744",
+      "operation": "comment_threads",
+      "cost": 1,
+      "description": "BALANCED - Video QsYERIUQvqw page 1",
+      "total_used": 5585
+    },
+    {
+      "timestamp": "2025-06-09T18:41:14.575388",
+      "operation": "comment_threads",
+      "cost": 1,
+      "description": "BALANCED - Video P861_SGmSlI page 1",
+      "total_used": 5586
+    },
+    {
+      "timestamp": "2025-06-09T18:41:15.178804",
+      "operation": "comment_threads",
+      "cost": 1,
+      "description": "BALANCED - Video Z5RJCyQd2Yc page 1",
+      "total_used": 5587
+    },
+    {
+      "timestamp": "2025-06-09T18:41:15.957165",
+      "operation": "comment_threads",
+      "cost": 1,
+      "description": "BALANCED - Video I1LxOvCVFN4 page 1",
+      "total_used": 5588
+    },
+    {
+      "timestamp": "2025-06-09T18:41:16.826225",
+      "operation": "comment_threads",
+      "cost": 1,
+      "description": "BALANCED - Video cBq7_2dnfGI page 1",
+      "total_used": 5589
+    },
+    {
+      "timestamp": "2025-06-09T18:41:17.644748",
+      "operation": "comment_threads",
+      "cost": 1,
+      "description": "BALANCED - Video Z877aCAYRUE page 1",
+      "total_used": 5590
+    },
+    {
+      "timestamp": "2025-06-09T18:41:18.275922",
+      "operation": "comment_threads",
+      "cost": 1,
+      "description": "BALANCED - Video jo7TvzEnGhc page 1",
+      "total_used": 5591
+    },
+    {
+      "timestamp": "2025-06-09T18:41:18.873102",
+      "operation": "comment_threads",
+      "cost": 1,
+      "description": "BALANCED - Video 4Yh0C2mvBcE page 1",
+      "total_used": 5592
+    },
+    {
+      "timestamp": "2025-06-09T18:41:19.396913",
+      "operation": "comment_threads",
+      "cost": 1,
+      "description": "BALANCED - Video jgzRqCBRpS4 page 1",
+      "total_used": 5593
+    },
+    {
+      "timestamp": "2025-06-09T18:41:19.999499",
+      "operation": "comment_threads",
+      "cost": 1,
+      "description": "BALANCED - Video K3L3kQelZdU page 1",
+      "total_used": 5594
+    },
+    {
+      "timestamp": "2025-06-09T18:41:20.701446",
+      "operation": "comment_threads",
+      "cost": 1,
+      "description": "BALANCED - Video T3pmJDG5w_8 page 1",
+      "total_used": 5595
+    },
+    {
+      "timestamp": "2025-06-09T18:41:21.273586",
+      "operation": "comment_threads",
+      "cost": 1,
+      "description": "BALANCED - Video N1LFo6c_cnY page 1",
+      "total_used": 5596
+    },
+    {
+      "timestamp": "2025-06-09T18:41:22.064040",
+      "operation": "comment_threads",
+      "cost": 1,
+      "description": "BALANCED - Video cN1ibdEEP3U page 1",
+      "total_used": 5597
+    },
+    {
+      "timestamp": "2025-06-09T18:41:22.600349",
+      "operation": "comment_threads",
+      "cost": 1,
+      "description": "BALANCED - Video hebmMGW2gak page 1",
+      "total_used": 5598
+    },
+    {
+      "timestamp": "2025-06-09T18:41:23.231040",
+      "operation": "comment_threads",
+      "cost": 1,
+      "description": "BALANCED - Video IcbyN7rUF5M page 1",
+      "total_used": 5599
+    },
+    {
+      "timestamp": "2025-06-09T18:41:23.788780",
+      "operation": "comment_threads",
+      "cost": 1,
+      "description": "BALANCED - Video 60ra3mB5qF8 page 1",
+      "total_used": 5600
+    },
+    {
+      "timestamp": "2025-06-09T18:41:24.320745",
+      "operation": "comment_threads",
+      "cost": 1,
+      "description": "BALANCED - Video bQYq-PP4qIc page 1",
+      "total_used": 5601
+    },
+    {
+      "timestamp": "2025-06-09T18:41:26.249342",
+      "operation": "comment_threads",
+      "cost": 1,
+      "description": "BALANCED - Video ug3aVK8F8YA page 1",
+      "total_used": 5602
+    },
+    {
+      "timestamp": "2025-06-09T18:41:26.634158",
+      "operation": "comment_threads",
+      "cost": 1,
+      "description": "BALANCED - Video 2dwiTvDUoek page 1",
+      "total_used": 5603
+    },
+    {
+      "timestamp": "2025-06-09T18:41:27.231013",
+      "operation": "comment_threads",
+      "cost": 1,
+      "description": "BALANCED - Video bpSpyugrWXU page 1",
+      "total_used": 5604
+    },
+    {
+      "timestamp": "2025-06-09T18:41:27.704218",
+      "operation": "comment_threads",
+      "cost": 1,
+      "description": "BALANCED - Video JceNZ87JXYg page 1",
+      "total_used": 5605
+    },
+    {
+      "timestamp": "2025-06-09T18:41:28.319745",
+      "operation": "comment_threads",
+      "cost": 1,
+      "description": "BALANCED - Video _cGP93gbTOE page 1",
+      "total_used": 5606
+    },
+    {
+      "timestamp": "2025-06-09T18:41:28.937368",
+      "operation": "comment_threads",
+      "cost": 1,
+      "description": "BALANCED - Video ZpXwY8X_F9s page 1",
+      "total_used": 5607
+    },
+    {
+      "timestamp": "2025-06-09T18:43:37.400625",
+      "operation": "search",
+      "cost": 100,
+      "description": "Search for handle NEETprep",
+      "total_used": 5707
+    },
+    {
+      "timestamp": "2025-06-09T18:43:37.622860",
+      "operation": "channel_list",
+      "cost": 1,
+      "description": "Details for channel UC4BjX3BqigeWAOp0kLkKSIA",
+      "total_used": 5708
+    },
+    {
+      "timestamp": "2025-06-09T18:43:38.235640",
+      "operation": "search",
+      "cost": 100,
+      "description": "Search for handle NEETspot",
+      "total_used": 5808
+    },
+    {
+      "timestamp": "2025-06-09T18:43:38.465907",
+      "operation": "channel_list",
+      "cost": 1,
+      "description": "Details for channel UC3l5WaEQL9MT9ufz4V9Dr0w",
+      "total_used": 5809
+    },
+    {
+      "timestamp": "2025-06-09T18:43:39.059521",
+      "operation": "search",
+      "cost": 100,
+      "description": "Search for handle PW-NEETWallah",
+      "total_used": 5909
+    },
+    {
+      "timestamp": "2025-06-09T18:43:39.303209",
+      "operation": "channel_list",
+      "cost": 1,
+      "description": "Details for channel UCD16eo98AXl-9T61Xd711kQ",
+      "total_used": 5910
+    },
+    {
+      "timestamp": "2025-06-09T18:43:39.685485",
+      "operation": "search",
+      "cost": 100,
+      "description": "Search for handle neetadda247",
+      "total_used": 6010
+    },
+    {
+      "timestamp": "2025-06-09T18:43:39.908811",
+      "operation": "channel_list",
+      "cost": 1,
+      "description": "Details for channel UC9v_KhFxEX6D4f3oDd9_LIQ",
+      "total_used": 6011
+    },
+    {
+      "timestamp": "2025-06-09T18:43:40.575867",
+      "operation": "search",
+      "cost": 100,
+      "description": "Search for handle UnacademyNEET",
+      "total_used": 6111
+    },
+    {
+      "timestamp": "2025-06-09T18:43:40.836081",
+      "operation": "channel_list",
+      "cost": 1,
+      "description": "Details for channel UCdQwYksctqqiRwqp3PiJMWA",
+      "total_used": 6112
+    },
+    {
+      "timestamp": "2025-06-09T18:44:12.822941",
+      "operation": "channel_list",
+      "cost": 1,
+      "description": "Search for username MotionNEET",
+      "total_used": 6113
+    },
+    {
+      "timestamp": "2025-06-09T18:44:16.415696",
+      "operation": "search",
+      "cost": 100,
+      "description": "Search for handle ALLENNEET",
+      "total_used": 6213
+    },
+    {
+      "timestamp": "2025-06-09T18:44:16.627785",
+      "operation": "channel_list",
+      "cost": 1,
+      "description": "Details for channel UCySvBtI4jMLXp0BT9osvASw",
+      "total_used": 6214
+    }
+  ]
+}
